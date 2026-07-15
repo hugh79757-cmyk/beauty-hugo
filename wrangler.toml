@@ -1,9 +1,6 @@
 name = "beauty-hugo"
 compatibility_date = "2025-07-31"
 
-routes = [
-  { pattern = "beauty.informationhot.kr/*", zone_name = "informationhot.kr" }
-]
 
 [assets]
 directory = "./public"
