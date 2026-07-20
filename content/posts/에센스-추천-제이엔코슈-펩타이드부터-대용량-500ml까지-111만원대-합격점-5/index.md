@@ -43,7 +43,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 1위: 제이앤코슈 펩타이드 볼륨 에센스 2.0 — 고함량 펩타이드로 탄력 관리 집중
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="제이엔코슈 펩타이드 볼륨 에센스 2.0" caption="제이엔코슈 펩타이드 볼륨 에센스 2.0" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/a1dfd984d2e8e3c8.webp" alt="제이엔코슈 펩타이드 볼륨 에센스 2.0" caption="제이엔코슈 펩타이드 볼륨 에센스 2.0" >}}
 탄력과 볼륨감을 동시에 잡고 싶은 분에게 추천하는 제품입니다. 펩타이드 성분이 주름 개선 기능성으로 인정받은 이 에센스는 100ml 대용량 4개 세트로 구성되어 총 400ml를 115,000원에 사용할 수 있습니다. 개당 약 28,750원 꼴로 중년 이상이나 탄력 케어에 진심인 분들이 매일 듬뿍 사용하기에 부담 없는 가격입니다.
 
 <strong>장점</strong>은 펩타이드 함량이 높아 탄력 개선 효과가 확실하고, 대용량 세트라 온 가족이 함께 사용할 수 있다는 점입니다. <strong>아쉬운 점</strong>은 일반배송으로 배송 기간이 2~3일 소요되며, 4개 세트라 부피가 있다는 것입니다. 쿠팡 뷰티 카테고리 1위 제품답게 리뷰도 풍부하며, 마흔 이후 피부 고민이 있는 분이라면 충분히 고려할 만합니다.
@@ -54,7 +54,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 2위: 대용량 500ml 에센스 (에스에리아 히알루론산 콜라겐) — 27,000원에 500g 대용량 보습
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="대용량 500ml 에센스" caption="대용량 500ml 에센스" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/47e2edbf29070943.webp" alt="대용량 500ml 에센스" caption="대용량 500ml 에센스" >}}
 예산을 아끼면서도 보습과 주름 개선 기능을 동시에 챙기고 싶다면 이 제품이 정답입니다. 500g(500ml) 대용량이 단 27,000원으로 로켓배송까지 가능한 점이 가장 큰 매력입니다. 히알루론산과 콜라겐, 펩타이드가 함유되어 건성 피부에 촉촉함을 더해주고 미백 기능성도 함께 표방하고 있습니다.
 
 <strong>장점</strong>은 가격 대비 용량이 압도적이라 얼굴뿐 아니라 목, 데콜테까지 듬뿍 발라도 아깝지 않다는 점입니다. <strong>아쉬운 점</strong>은 브랜드 인지도가 낮아 피부 자극에 예민한 분은 패치 테스트가 권장됩니다. 퇴근 후 샤워하고 전신에 발라도 될 정도로 넉넉하니 온 가족이 함께 사용하기 좋습니다.
@@ -65,7 +65,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 3위: 마이랩스 NMN 모공탄력 달팽이 세럼 — 모공과 탄력을 동시에 잡는 집중 세럼
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="마이랩스 NMN 모공탄력 달팽이 세럼" caption="NMN(니코틴아마이드 모노뉴클레오타이드) 성분은 최근 항노화 케어에서 주목받는 소재입니다. 이 세럼은 NMN과 달팽이 점액 여과물을 결합해 모공 탄력과 피부 재생을 동시에 도와줍니다. 30ml 용량으로 40,500원이며 로켓배송이 가능합니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/85203908f8e4530b.webp" alt="마이랩스 NMN 모공탄력 달팽이 세럼" caption="NMN(니코틴아마이드 모노뉴클레오타이드) 성분은 최근 항노화 케어에서 주목받는 소재입니다. 이 세럼은 NMN과 달팽이 점액 여과물을 결합해 모공 탄력과 피부 재생을 동시에 도와줍니다. 30ml 용량으로 40,500원이며 로켓배송이 가능합니다." >}}
 <strong>장점</strong>은 NMN과 달팽이 성분의 시너지로 모공이 눈에 띄게 정돈되고 피부결이 매끄러워진다는 후기가 많다는 점입니다. <strong>아쉬운 점</strong>은 용량 대비 가격이 다소 높아 매일 전면 사용보다는 특정 부위 집중 케어용으로 적합합니다. 지성이나 복합성 피부로 모공 고민이 있다면 아침 세안 후 한두 펌프만 발라도 효과를 느낄 수 있습니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9585334735&itemId=28613140984&vendorItemId=95575692185&traceid=V0-153-1bad5ea8ace9a444&clickBeacon=21244100-7f3e-11f1-a6c3-eff551e202e5%7E3&requestid=20260714134024569162919989&token=31850C%7CMIXED)
@@ -74,7 +74,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 4위: 에스트라 아토베리어365 하이드로 에센스 — 민감성 피부를 위한 저자극 보습 에센스
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="에스트라 아토베리어365 하이드로 에센스" caption="에스트라 아토베리어365 라인은 민감성 피부를 대표하는 제품군입니다. 이 하이드로 에센스는 판테놀과 세라마이드 성분이 피부 장벽을 강화하고 진정 효과를 줍니다. 가격은 19,480원으로 가장 저렴하면서도 로켓배송이 가능합니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/3c0a068c49c8fdb8.webp" alt="에스트라 아토베리어365 하이드로 에센스" caption="에스트라 아토베리어365 라인은 민감성 피부를 대표하는 제품군입니다. 이 하이드로 에센스는 판테놀과 세라마이드 성분이 피부 장벽을 강화하고 진정 효과를 줍니다. 가격은 19,480원으로 가장 저렴하면서도 로켓배송이 가능합니다." >}}
 <strong>장점</strong>은 자극이 거의 없어 레이저 시술 후나 각질이 얇은 민감성 피부도 안심하고 사용할 수 있다는 점입니다. <strong>아쉬운 점</strong>은 주름 개선이나 미백 효과보다는 순수 보습과 진정에 초점이 맞춰져 있어 기능성에 중점을 두는 분에게는 다소 밋밋할 수 있습니다. 출근 전 간단한 보습 루틴만으로도 촉촉함이 오래 지속됩니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=8548534734&itemId=19492310127&vendorItemId=90774439429&traceid=V0-153-96d63b17f5584be5&requestid=20260714134024569162919989&token=31850C%7CMIXED)
@@ -83,7 +83,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 5위: 센텔리안24 마데카 뉴트리 솔루션 에센스 — 피부 진정과 영양 공급
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="센텔리안24 마데카 뉴트리 솔루션 에센스" caption="22,200원 무료배송 상품으로, 마데카소사이드(티트리잎추출물) 성분이 피부 트러블을 진정시키고 판테놀이 보습을 더해줍니다. 가볍게 흡수되는 텍스처라 지성이나 복합성 피부도 부담 없이 사용할 수 있습니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/0dd20e6c08bb9135.webp" alt="센텔리안24 마데카 뉴트리 솔루션 에센스" caption="22,200원 무료배송 상품으로, 마데카소사이드(티트리잎추출물) 성분이 피부 트러블을 진정시키고 판테놀이 보습을 더해줍니다. 가볍게 흡수되는 텍스처라 지성이나 복합성 피부도 부담 없이 사용할 수 있습니다." >}}
 <strong>장점</strong>은 은은한 허브향이 기분을 상쾌하게 해주고, 바르고 나면 들러붙지 않아 메이크업 전에도 좋다는 점입니다. <strong>아쉬운 점</strong>은 용량이 표기되지 않아 대부분 50ml 이하로 추정되며, 고농축 기능성 성분을 원하는 경우 펩타이드 제품에 비해 효과 체감이 느릴 수 있습니다. 잦은 피부 트러블로 고민하는 20~30대라면 좋은 선택이 됩니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=6055085630&itemId=22230547918&vendorItemId=95052866629&traceid=V0-153-d26148d9a23450b1&requestid=20260714134024569162919989&token=31850C%7CMIXED)

@@ -45,7 +45,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 1위: 제이앤스밈 링클샷 500 — 실속형 본품+리필 구성
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="제이앤스밈 링클샷 500" caption="제이앤스밈 링클샷 500" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/a8a7cdbe317f2efd.webp" alt="제이앤스밈 링클샷 500" caption="제이앤스밈 링클샷 500" >}}
 1만 원대 가격에 본품과 리필이 함께 들어 있어 부담 없이 시작할 수 있는 제품입니다. 팔자주름과 눈가주름, 모공 축소까지 케어해 주는 펩타이드 복합체 성분이 함유되어 있습니다. 모든 피부 타입이 사용할 수 있는 순한 제형이라 처음 링클샷을 써보는 분들에게 특히 좋습니다.
 
 <strong>장점:</strong> 가격 대비 구성이 훌륭하고, 리필이 포함되어 있어 오래 쓸 수 있습니다.  
@@ -59,7 +59,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 2위: 일레븐라인스 링클샷 진동크림 — 미간주름 집중 케어
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="일레븐라인스 링클샷 진동크림" caption="일레븐라인스 링클샷 진동크림" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/11a235cfc54ecbe3.webp" alt="일레븐라인스 링클샷 진동크림" caption="일레븐라인스 링클샷 진동크림" >}}
 진동 기능이 내장된 미간다리미 타입의 제품입니다. 미간주름, 팔자주름, 이마주름 등 집중 케어가 필요한 부위에 진동을 이용해 크림을 흡수시켜 줍니다. 콜라겐과 펩타이드 성분이 함유되어 피부 탄력과 리프팅 효과를 동시에 기대할 수 있습니다. 건성이나 복합성 피부에 특히 잘 맞습니다.
 
 <strong>장점:</strong> 진동 마사지 기능이 있어 손으로 바를 때보다 흡수율이 높습니다.  
@@ -73,7 +73,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 3위: 종근당건강 씨케이디 레티노콜라겐 저분자300 괄사크림 — 목주름까지 케어
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="종근당건강 씨케이디 레티노콜라겐 저분자300 괄사크림" caption="종근당건강 씨케이디 레티노콜라겐 저분자300 괄사크림" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/248b13a44582185a.webp" alt="종근당건강 씨케이디 레티노콜라겐 저분자300 괄사크림" caption="종근당건강 씨케이디 레티노콜라겐 저분자300 괄사크림" >}}
 종근당건강에서 만든 이 제품은 레티놀과 저분자 콜라겐 300Da를 결합해 피부 재생과 탄력을 동시에 잡아줍니다. 특히 괄사 크림 타입이라 목주름 관리에도 효과적입니다. 50ml+50ml 대용량 구성으로 가격 대비 사용 기간이 긴 것이 장점입니다. 건성이나 복합성 피부에 적합합니다.
 
 <strong>장점:</strong> 레티놀 성분이 포함되어 있어 주름 개선 기능성 화장품으로 인정받을 수 있는 수준입니다.  
@@ -87,7 +87,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 4위: 메라블 유쎄라블 리프팅샷 900 아이크림 — 눈가 전용 고농축 케어
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="메라블 유쎄라블 리프팅샷 900" caption="눈밑 지방, 볼륨 감소, 눈가주름까지 집중 케어하는 아이크림입니다. 펩타이드와 아데노신 성분이 함유되어 눈가 탄력을 높여줍니다. 15ml 2개 세트로 총 30ml 용량이며, 로켓배송으로 빠르게 받을 수 있습니다. 모든 피부 타입에 사용 가능합니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/38fefc491fa38085.webp" alt="메라블 유쎄라블 리프팅샷 900" caption="눈밑 지방, 볼륨 감소, 눈가주름까지 집중 케어하는 아이크림입니다. 펩타이드와 아데노신 성분이 함유되어 눈가 탄력을 높여줍니다. 15ml 2개 세트로 총 30ml 용량이며, 로켓배송으로 빠르게 받을 수 있습니다. 모든 피부 타입에 사용 가능합니다." >}}
 <strong>장점:</strong> 눈가 전용으로 농축된 포뮬러가 다른 부위용 크림보다 효과가 빠릅니다.  
 <strong>아쉬운 점:</strong> 가격대가 6만 원대로 다른 제품보다 높은 편입니다.
 
@@ -99,7 +99,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 5위: 세르본 리쥬톡샷 아이크림 — 고급 홈케어 프리미엄
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="세르본 리쥬톡샷 아이크림" caption="이마, 미간, 눈가, 입 주변까지 전 영역을 케어하는 프리미엄 아이크림입니다. 펩타이드와 세라마이드 성분이 피부 장벽을 강화하면서 주름을 개선해 줍니다. 건성이나 민감성 피부에 특히 적합하며, 자극이 적은 순한 제형이 특징입니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/8046cc18b65c4d7e.webp" alt="세르본 리쥬톡샷 아이크림" caption="이마, 미간, 눈가, 입 주변까지 전 영역을 케어하는 프리미엄 아이크림입니다. 펩타이드와 세라마이드 성분이 피부 장벽을 강화하면서 주름을 개선해 줍니다. 건성이나 민감성 피부에 특히 적합하며, 자극이 적은 순한 제형이 특징입니다." >}}
 <strong>장점:</strong> 눈가뿐 아니라 입 주변 주름까지 사용할 수 있어 활용도가 높습니다.  
 <strong>아쉬운 점:</strong> 9만 9천 원으로 가격대가 가장 높아 부담이 될 수 있습니다.
 

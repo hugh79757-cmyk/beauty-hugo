@@ -41,7 +41,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 1위: 라비엘 아세로라 잡티 앤 기미 크림 — 가격 대비 실속 잡티 케어
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="라비엘 아세로라 잡티 앤 기미 크림" caption="<strong>가격: 17,870원 | 용량: 80ml | 배송: 일반배송</strong>" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/b66c63c2372ab568.webp" alt="라비엘 아세로라 잡티 앤 기미 크림" caption="<strong>가격: 17,870원 | 용량: 80ml | 배송: 일반배송</strong>" >}}
 라비엘 아세로라 잡티 앤 기미 크림은 80ml 대용량에 17,870원이라는 부담 없는 가격으로 잡티와 기미 케어를 시작할 수 있는 제품입니다. 아세로라 추출물이 풍부하게 함유되어 있어 피부 톤을 밝게 정돈하는 데 도움을 줍니다. 모든 피부 타입이 사용할 수 있으며, 특히 잡티 고민이 있는 분에게 적합합니다.
 
 <strong>장점:</strong> 대용량에 합리적인 가격, 아세로라 성분으로 미백 효과 기대
@@ -53,7 +53,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 2위: 에이스킨 리바이탈라이즈 MGF 리페어 크림 — 민감한 피부를 위한 집중 리페어
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="에이스킨 리바이탈라이즈 MGF 리페어 크림" caption="<strong>가격: 22,000원 | 용량: 15ml | 배송: 일반배송</strong>" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/475af44656c8d1da.webp" alt="에이스킨 리바이탈라이즈 MGF 리페어 크림" caption="<strong>가격: 22,000원 | 용량: 15ml | 배송: 일반배송</strong>" >}}
 에이스킨 리바이탈라이즈 MGF 리페어 크림은 MGF(섬유아세포 성장인자) 성분을 중심으로 피부 재생과 리페어에 집중한 제품입니다. 15ml 소용량으로 출시되어 민감성 피부나 특정 부위만 집중 케어하고 싶은 분에게 적합합니다. 건성 피부라면 밤에 바르고 자면 다음 날 피부결이 한결 부드러워진 느낌을 받을 수 있습니다.
 
 <strong>장점:</strong> MGF 성분으로 피부 재생에 특화, 소용량으로 부담 없이 테스트 가능
@@ -65,7 +65,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 3위: 비욘드 리바이탈 바디 미스트 — 바디 케어까지 챙기는 올인원
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="비욘드 리바이탈 바디 미스트" caption="<strong>가격: 27,780원 | 배송: 무료배송</strong>" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/bafcc80214c60217.webp" alt="비욘드 리바이탈 바디 미스트" caption="<strong>가격: 27,780원 | 배송: 무료배송</strong>" >}}
 비욘드 리바이탈 바디 미스트는 얼굴이 아닌 바디용으로 출시된 제품입니다. 샤워 후 건조해지기 쉬운 팔, 다리, 등에 가볍게 뿌려주면 촉촉함이 오래갑니다. 특히 여름철 에어컨 바람에 피부가 건조해지기 쉬운 사무실 환경에서 중간중간 분사해주면 기분까지 상쾌해집니다.
 
 <strong>장점:</strong> 바디 전용 미스트로 넓은 부위에 빠르게 흡수, 무료배송
@@ -77,7 +77,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 4위: 스킨볼릭 뉴트리바이탈 크림 50ml — 로켓배송으로 만나는 영양 크림
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="스킨볼릭 뉴트리바이탈 크림 50ml" caption="<strong>가격: 46,000원 | 용량: 50ml | 배송: 로켓배송</strong>" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/61d210350789f538.webp" alt="스킨볼릭 뉴트리바이탈 크림 50ml" caption="<strong>가격: 46,000원 | 용량: 50ml | 배송: 로켓배송</strong>" >}}
 스킨볼릭 뉴트리바이탈 크림 50ml는 로켓배송으로 다음 날 바로 받아볼 수 있어 급하게 영양 크림이 필요할 때 최적의 선택입니다. 더골드마스크 1매가 증정으로 포함되어 있어 크림과 함께 마스크팩까지 케어할 수 있습니다. 영양 성분이 풍부해 건성 피부나 복합성 피부 모두 사용하기 좋습니다.
 
 <strong>장점:</strong> 로켓배송 가능, 더골드마스크 증정으로 가성비 UP
@@ -89,7 +89,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 5위: 스킨볼릭 뉴트리바이탈 크림 150ml — 가족과 함께 쓰는 대용량
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="스킨볼릭 뉴트리바이탈 크림 150ml" caption="<strong>가격: 106,000원 | 용량: 150ml | 배송: 로켓배송</strong>" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/61d210350789f538.webp" alt="스킨볼릭 뉴트리바이탈 크림 150ml" caption="<strong>가격: 106,000원 | 용량: 150ml | 배송: 로켓배송</strong>" >}}
 스킨볼릭 뉴트리바이탈 크림 150ml는 가족 구성원 모두가 함께 사용할 수 있는 대용량 제품입니다. 더골드마스크 3매가 증정되어 있어 꾸준히 마스크팩까지 케어하고 싶은 분에게 좋습니다. 50ml 제품과 동일한 성분으로 용량만 3배 커진 만큼, 만족도가 확인된 후 대용량으로 넘어가면 실속 있습니다.
 
 <strong>장점:</strong> 대용량으로 오래 사용 가능, 로켓배송, 마스크 3매 증정

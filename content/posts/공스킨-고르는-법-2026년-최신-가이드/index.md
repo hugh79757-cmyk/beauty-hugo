@@ -7,8 +7,8 @@ slug: "공스킨-고르는-법-2026년-최신-가이드"
 categories: ['추천']
 tags: ['피엘코스메틱', '착한팩토리', '공스킨', '나담코스', '폴메디슨', '더마하우스']
 cover:
-  image: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp"
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp"
+  image: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/605fd3f589bd08a8.webp"
+featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/605fd3f589bd08a8.webp"
 ---
 {{< lead >}}
 2026년 7월, 피부 고민은 많은데 스킨케어 제품은 너무 다양해서 어떤 걸 골라야 할지 막막하신가요? 특히 주름 개선, 미백, 탄력까지 한 번에 케어하고 싶은데 가격까지 부담스럽다면 더 고민이 깊어집니다.  실제 구매자 평가와 성분을 꼼꼼히 분석해, 예산과 피부 타입에 딱 맞는 공스킨 제품을 골라드립니다.

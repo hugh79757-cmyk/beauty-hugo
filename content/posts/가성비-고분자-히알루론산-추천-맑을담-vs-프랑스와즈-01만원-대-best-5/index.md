@@ -7,8 +7,8 @@ slug: "가성비-고분자-히알루론산-추천-맑을담-vs-프랑스와즈-0
 categories: ['추천']
 tags: ['네이처소스', '더아름', '맑을담', '프랑스와즈', '제이씨와이', '고분자']
 cover:
-  image: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp"
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp"
+  image: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/34913b28c29b5556.webp"
+featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/34913b28c29b5556.webp"
 ---
 {{< lead >}}
 2026년 7월 기준, 피부 속부터 촉촉하게 채워줄 고분자 히알루론산 원액을 찾고 계신가요? 시중에 수많은 제품이 나와 있어 어떤 걸 골라야 할지 고민되실 텐데요. 가격은 부담스럽지 않으면서도 순도 높은 성분을 원하는 분들을 위해 1만 원 안팎의 가성비 좋은 고분자 히알루론산 제품 5가지를 꼼꼼히 비교해 봤습니다.

@@ -7,8 +7,8 @@ slug: "실제-구매자가-말하는-광채-추천-top-5-디어글램리엔케�
 categories: ['추천']
 tags: ['디어글램', '바이유어', '코스메카코리아', '나투젠', '코스맥스', '뷰티영']
 cover:
-  image: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp"
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp"
+  image: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/065d516c93e715c6.webp"
+featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/065d516c93e715c6.webp"
 ---
 <p class="lead">
 2026년 7월, 피부에 생기 있는 광채를 더해줄 제품을 찾고 계신가요? 광채 크림, 톤업 제품, 글로우 스틱까지 종류가 다양해 어떤 걸 골라야 할지 고민되실 겁니다. 실제 구매자 후기와 성분, 가격을 꼼꼼히 비교해 2026년 7월 기준 가장 인기 있는 광채 제품 5가지를 엄선했습니다.

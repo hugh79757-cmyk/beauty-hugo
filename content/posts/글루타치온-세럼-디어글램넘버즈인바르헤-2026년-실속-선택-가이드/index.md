@@ -33,35 +33,35 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 <strong>1순위: 쟈스 글로타치온 엑스퍼트 세럼 — 용량 대비 압도적 실속</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="쟈스 글로타치온 엑스퍼트 세럼" caption="쟈스 글로타치온 엑스퍼트 세럼" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/9ed6902976dd2e16.webp" alt="쟈스 글로타치온 엑스퍼트 세럼" caption="쟈스 글로타치온 엑스퍼트 세럼" >}}
 쟈스는 130ml 대용량 2개 구성으로 총 260ml를 25,600원에 제공합니다. ml당 약 98원으로 이번 비교 대상 중 가장 낮은 단가를 자랑합니다. 출근 전 5분 루틴을 마친 후 듬뿍 발라도 부담 없는 용량이라 데일리 광채 관리에 적합합니다. 피부 타입을 크게 가리지 않지만, 끈적임이 적은 텍스처라 지성이나 복합성 피부에 특히 잘 맞습니다. 아쉬운 점은 주요 성분이 글루타치온과 비타민 유도체로 명시되어 있지만, 구체적인 함량이나 리포좀 같은 전달 기술에 대한 정보가 부족하다는 점입니다. 그래도 꾸준히 사용하기에 부담 없는 가격과 넉넉한 용량은 큰 장점입니다. 쿠팡 로켓배송으로 빠르게 받을 수 있고, 리뷰 평점도 4.5점 이상으로 안정적입니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=7412739880&itemId=23098684064&vendorItemId=94983486638&traceid=V0-153-1fe74d0d93199a56&requestid=20260714104020023282648943&token=31850C%7CMIXED)
 
 <strong>2순위: 바르헤 글루타치온 광채 화이트닝 미백 세럼 — 가격과 품질의 균형</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="바르헤 글루타치온 광채 세럼" caption="바르헤 글루타치온 광채 세럼" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/6d7d7314f465de51.webp" alt="바르헤 글루타치온 광채 세럼" caption="바르헤 글루타치온 광채 세럼" >}}
 바르헤는 18,500원에 50ml로, ml당 370원 선입니다. 중간 가격대이지만 나이아신아마이드가 포함되어 글루타치온과 시너지를 내는 점이 돋보입니다. 건성이나 복합성 피부라면 이 제품이 적당한 보습감을 제공합니다. 바르헤는 ‘광채’라는 이름답게 사용 후 즉각적인 윤기 느낌이 있다는 후기가 많습니다. 아쉬운 점은 용량이 50ml로 매일 사용하면 한 달 반에서 두 달 정도면 소진된다는 점입니다. 하지만 이 가격대에서 이 정도 성분 조합과 피부 밀착감은 합격점입니다. 쿠팡 로켓배송이며 구매자 리뷰 4.3점 이상을 유지하고 있습니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9066435916&itemId=26624707481&vendorItemId=93597604347&traceid=V0-153-71b5f81a677ad30f&clickBeacon=f92cf7a0-7f24-11f1-bc7e-7a36d46e69ee%7E3&requestid=20260714104020023282648943&token=31850C%7CMIXED)
 
 <strong>3순위: 공스킨 글루타티온 세럼 — 부담 없는 첫 테스트용</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="공스킨 글루타티온 세럼" caption="공스킨 글루타티온 세럼" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/842d3d6378204a07.webp" alt="공스킨 글루타티온 세럼" caption="공스킨 글루타티온 세럼" >}}
 공스킨 세럼은 5,290원이라는 파격적인 가격으로, 글루타치온 세럼을 처음 써보거나 가볍게 테스트해보려는 분에게 딱입니다. 다만 상품명에 용량 정보가 없어 정확한 ml당 단가를 알 수 없으나, 일반적인 세럼 용량(20~30ml)으로 추정해도 매우 저렴한 편입니다. 민감성 피부도 부담 없이 시도할 수 있는 순한 배합으로 알려져 있습니다. 아쉬운 점은 용량이 적어 꾸준히 사용하려면 자주 구매해야 하고, 브랜드 인지도가 낮아 세부 성분 정보가 충분하지 않다는 것입니다. 하지만 “일단 써보고 결정하자”는 마음이라면 이 가격은 큰 메리트입니다. 쿠팡 로켓배송으로 즉시 받을 수 있습니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=8795449961&itemId=25605011131&vendorItemId=92694863880&traceid=V0-153-612add76b9e3c082&requestid=20260714104020023282648943&token=31850C%7CMIXED)
 
 <strong>4순위: 넘버즈인 5번 글루타치온C 흔적 앰플 1+1 세트 — 브랜드 신뢰와 비타민C 조합</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="넘버즈인 글루타치온C 앰플" caption="넘버즈인 글루타치온C 앰플" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/23d07cc86bacadcb.webp" alt="넘버즈인 글루타치온C 앰플" caption="넘버즈인 글루타치온C 앰플" >}}
 넘버즈인은 ‘5번’ 시리즈로 유명한 브랜드로, 이 제품은 글루타치온과 비타민C가 함께 들어 있어 미백과 항산화 두 가지 효과를 노릴 수 있습니다. 1+1 세트로 총 60ml를 39,950원에 제공하며, ml당 약 666원으로 중간 가격대입니다. 피부 톤을 밝게 하고 잡티 흔적을 케어하는 데 초점이 맞춰져 있습니다. 아쉬운 점은 비타민C 성분이 민감성 피부에는 자극이 될 수 있고, 용량 대비 가격이 다소 높은 편이라는 점입니다. 하지만 브랜드에 대한 신뢰도와 성분 조합을 고려하면 퀄리티에 만족할 사용자가 많습니다. 무료배송이며, 네이버 최저가 34,300원보다 쿠팡 가격이 약간 높지만 편의성을 고려하면 괜찮습니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=7856817052&itemId=26190392193&vendorItemId=94089204162&traceid=V0-153-d186ca77ea5d30f0&clickBeacon=f92cf7a0-7f24-11f1-8ab3-a1ec94f70ecb%7E3&requestid=20260714104020023282648943&token=31850C%7CMIXED)
 
 <strong>5순위: 디어글램 글루타치온 리포좀 12.5 광채 미백 세럼 — 프리미엄 리포좀 기술</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="디어글램 글루타치온 리포좀 세럼" caption="디어글램 글루타치온 리포좀 세럼" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/836b153c85ca7e7b.webp" alt="디어글램 글루타치온 리포좀 세럼" caption="디어글램 글루타치온 리포좀 세럼" >}}
 디어글램은 리포좀 기술을 적용해 글루타치온의 피부 흡수율을 높인 제품입니다. 50ml 2개 세트로 총 100ml, 58,000원에 판매 중이며 ml당 580원입니다. 건성 피부나 민감성 피부에도 자극이 적으면서도 속 깊은 광채를 원하는 분에게 적합합니다. 리포좀이라는 전달체 덕분에 같은 글루타치온이라도 효과가 더 오래 지속된다는 평가가 있습니다. 아쉬운 점은 가격대가 가장 높아 부담될 수 있다는 점과, 용량 대비 효용을 따지면 쟈스에 비해 확실히 비싸다는 것입니다. 하지만 품질로 승부하는 사용자라면 만족도가 높습니다. 쿠팡 로켓배송이며, 뷰티 카테고리 1위 제품으로 인기를 입증했습니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=7821398655&itemId=23140907244&vendorItemId=90173797861&traceid=V0-153-85240bb8e5b7b704&clickBeacon=f92cd090-7f24-11f1-a4da-43794e75b799%7E3&requestid=20260714104020023282648943&token=31850C%7CMIXED)

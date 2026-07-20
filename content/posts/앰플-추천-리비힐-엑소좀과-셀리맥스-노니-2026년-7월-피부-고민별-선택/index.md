@@ -45,7 +45,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 1위: 셀리맥스 더 리얼 노니 에너지 앰플 세트 — 피부 윤기와 생기를 한 번에
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="셀리맥스 더 리얼 노니 에너지 앰플 30ml + 15ml 세트" caption="<strong>가격: 16,560원 (로켓배송) | 쿠팡순위 1위</strong>" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/fa5cd72a63fa17fc.webp" alt="셀리맥스 더 리얼 노니 에너지 앰플 30ml + 15ml 세트" caption="<strong>가격: 16,560원 (로켓배송) | 쿠팡순위 1위</strong>" >}}
 셀리맥스 더 리얼 노니 에너지 앰플은 노니 추출물을 핵심 성분으로 한 제품입니다. 노니는 항산화와 피부 재생에 탁월한 성분으로, 건조함과 칙칙함을 개선하는 데 효과적입니다. 30ml 본품에 15ml 미니 세트가 함께 구성되어 있어 처음 사용해 보는 분에게도 부담이 적습니다.
 
 <strong>장점:</strong> 모든 피부 타입에 부담 없이 사용할 수 있습니다. 점성 있는 텍스처지만 빠르게 흡수되어 다음 단계 제품 흡수를 방해하지 않습니다. 특히 아침 세안 후 바르면 피부가 한층 밝아지는 느낌입니다.
@@ -60,7 +60,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 1위: 리비힐 피부과 엑소좀 안티에이징 모공 탄력 앰플 — 피부과 전문 브랜드의 집중 케어
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="리비힐 피부과 엑소좀 안티에이징 모공 탄력 앰플 50ml" caption="<strong>가격: 23,000원 (로켓배송) | 쿠팡순위 1위</strong>" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/f3c08eee15c4896a.webp" alt="리비힐 피부과 엑소좀 안티에이징 모공 탄력 앰플 50ml" caption="<strong>가격: 23,000원 (로켓배송) | 쿠팡순위 1위</strong>" >}}
 리비힐 피부과 엑소좀 앰플은 엑소좀과 펩타이드 성분을 함유한 안티에이징 제품입니다. 모공과 탄력에 고민이 있는 분들을 위해 개발되었으며, 피부과 브랜드의 연구가 그대로 담겼습니다. 50ml 대용량으로 가격 대비 효율이 좋습니다.
 
 <strong>장점:</strong> 엑소좀 성분이 피부 속까지 깊이 흡수되어 탄력 개선에 확실한 효과를 냅니다. 끈적임이 적고 마무리가 산뜻해 지성 피부도 부담 없이 사용할 수 있습니다.
@@ -75,7 +75,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 <strong>라운드랩 1025 독도 앰플 — 저자극 베이스로 시작하는 첫 앰플</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="라운드랩 1025 독도 앰플 45g" caption="<strong>가격: 9,430원 (로켓배송) | 쿠팡순위 5위</strong>" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/a2bbdbc1d74d1d35.webp" alt="라운드랩 1025 독도 앰플 45g" caption="<strong>가격: 9,430원 (로켓배송) | 쿠팡순위 5위</strong>" >}}
 라운드랩 1025 독도 앰플은 독도 해양 심층수와 판테놀을 기반으로 한 저자극 앰플입니다. 45g 용량으로 앰플과 크림의 중간 정도 텍스처가 매력적입니다. 민감성 피부나 앰플을 처음 사용하는 분에게 안성맞춤입니다.
 
 <strong>장점:</strong> 무향, 무색소, 무알코올로 피부 자극이 거의 없습니다. 가격이 9,430원으로 매우 부담 없어 데일리로 넉넉하게 사용할 수 있습니다.
@@ -90,7 +90,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 <strong>웰라쥬 리얼 히알루로닉 블루 앰플 — 건성 피부를 위한 수분 폭탄</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="웰라쥬 리얼 히알루로닉 블루 앰플" caption="<strong>가격: 17,900원 (로켓배송) | 쿠팡순위 6위</strong>" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/b77aed764d7dd48d.webp" alt="웰라쥬 리얼 히알루로닉 블루 앰플" caption="<strong>가격: 17,900원 (로켓배송) | 쿠팡순위 6위</strong>" >}}
 웰라쥬 리얼 히알루로닉 블루 앰플은 3중 히알루론산이 피부 속부터 겉까지 수분을 채워주는 제품입니다. 50ml 대용량으로 건성 피부에는 정말 든든한 선택입니다.
 
 <strong>장점:</strong> 끈적임 없이 산뜻하게 흡수되면서도 보습력이 뛰어납니다. 메이크업 전 사용해도 밀리지 않아 아침 루틴에도 좋습니다.
@@ -105,7 +105,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 <strong>트루션 센시톨로지 더마 장벽 앰플 (2개) — 민감성 피부의 든든한 선택</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="트루션 센시톨로지 더마 장벽 앰플 2개 50ml" caption="<strong>가격: 35,790원 (무료배송) | 쿠팡순위 4위</strong>" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/141c55964aff193f.webp" alt="트루션 센시톨로지 더마 장벽 앰플 2개 50ml" caption="<strong>가격: 35,790원 (무료배송) | 쿠팡순위 4위</strong>" >}}
 트루션 센시톨로지 더마 장벽 앰플은 50ml 두 개 구성으로, 장벽 손상으로 고생하는 민감성 피부를 위해 개발되었습니다. 병풀(센텔라) 유래 성분이 진정과 재생을 도와줍니다.
 
 <strong>장점:</strong> 2개들이로 가격 대비 용량이 크고, 저자극 테스트를 거쳐 민감한 피부도 안심하고 사용할 수 있습니다.

@@ -31,35 +31,35 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 1위: 엔텔 마스크팩 100매 세트 — 가격 대비 압도적 구성
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="엔텔 마스크팩 100매 세트" caption="엔텔 마스크팩 100매 세트" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/4822b15be40bf751.webp" alt="엔텔 마스크팩 100매 세트" caption="엔텔 마스크팩 100매 세트" >}}
 이 제품의 가장 큰 장점은 100매라는 압도적인 수량입니다. 10가지 종류가 각 10매씩 들어 있어 매일 다른 마스크팩을 즐길 수 있습니다. 알로에는 진정 효과, 어성초는 트러블 케어, 흑진주는 미백, 녹차는 피지 조절 등 다양한 효과를 기대할 수 있어 복합성 피부에도 부담 없이 사용할 수 있습니다. 특히 출근 전 5분 루틴을 원하는 직장인이라면, 아침마다 다른 마스크팩을 고르는 재미도 느낄 수 있습니다. 매수 단가가 약 189원으로 매우 저렴해 매일 사용해도 경제적입니다. 무료배송으로 추가 비용이 없으며, 누적 판매량이 높아 신뢰할 수 있는 제품입니다. 한 가지 아쉬운 점은 로켓배송이 아니라 배송이 다소 느릴 수 있다는 점입니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9525071834&itemId=28398741662&vendorItemId=95350091110&traceid=V0-153-0ae411f345f69cf2&requestid=20260713164027375123614998&token=31850C%7CGM)
 
 ## 2위: 리엑셀 달팽이 콜라겐 마스크팩 시트 — 건성 피부에 탁월한 보습
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="리엑셀 달팽이 콜라겐 마스크팩 시트" caption="리엑셀 달팽이 콜라겐 마스크팩 시트" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/407322bfd8bbbea0.webp" alt="리엑셀 달팽이 콜라겐 마스크팩 시트" caption="리엑셀 달팽이 콜라겐 마스크팩 시트" >}}
 달팽이 점액과 콜라겐 성분이 함유되어 피부 탄력과 보습에 집중하고 싶은 분께 적합합니다. 건성 피부나 주름이 신경 쓰이는 분이라면 이 제품을 고려해볼 만합니다. 단품 시트이지만 17,900원이라는 가격은 부담이 없고, 네이버 최저가와 동일한 가격으로 무료배송됩니다. 퇴근 후 집에서 간편하게 스킨케어를 원하는 분께 추천합니다. 시트 재질이 부드러워 피부에 자극이 적고, 에센스가 풍부해 20분 정도 충분히 흡수시킬 수 있습니다. 아쉬운 점은 대용량이 아니라 자주 구매해야 한다는 것입니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=7410643472&itemId=19200261117&vendorItemId=74135910205&traceid=V0-153-8468697aa6c4955b&requestid=20260713164027375123614998&token=31850C%7CGM)
 
 ## 3위: 그레이스데이 알약 마스크팩 — 휴대성과 신선함을 원한다면
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="그레이스데이 알약 마스크팩" caption="그레이스데이 알약 마스크팩" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/989d80c126e5418e.webp" alt="그레이스데이 알약 마스크팩" caption="그레이스데이 알약 마스크팩" >}}
 알약 형태의 마스크팩으로 물에 불려 사용하는 방식입니다. 보관이 간편하고 사용할 때마다 신선한 상태를 유지할 수 있어 여행이나 출장 시 휴대하기 좋습니다. 모든 피부 타입이 사용 가능하며, 로켓배송으로 빠르게 받을 수 있다는 장점이 있습니다. 리뷰 평점이 높아 신뢰도가 높습니다. 출근 전 간단히 물에 불려 사용하면 바쁜 아침에도 손쉽게 스킨케어가 가능합니다. 아쉬운 점은 매수가 명확하지 않아 가격 대비 효율을 따지기 어렵다는 것입니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=8732944374&itemId=25376125193&vendorItemId=92370195912&traceid=V0-153-9276206643bfbbaa&requestid=20260713164027375123614998&token=31850C%7CGM)
 
 ## 4위: 리코셀 네이처리커버리 마스크팩 1번 세트 — 쿠팡 1위의 인기
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="리코셀 네이처리커버리 마스크팩 1번 세트" caption="리코셀 네이처리커버리 마스크팩 1번 세트" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/2b5b49b4e138a4bd.webp" alt="리코셀 네이처리커버리 마스크팩 1번 세트" caption="리코셀 네이처리커버리 마스크팩 1번 세트" >}}
 리코셀 네이처리커버리 마스크팩은 쿠팡에서 1위를 차지한 인기 제품입니다. 네이처리커버리™ 성분이 피부를 건강하게 가꿔주며, 모든 피부 타입에 사용 가능합니다. 특히 피부 톤을 밝게 하고 싶은 분께 적합합니다. 로켓배송으로 주문 다음 날 바로 받을 수 있어 편리합니다. 누적 판매량도 많아 많은 사람이 이미 만족하고 있는 제품입니다. 아쉬운 점은 구성이 1번 세트라 여러 장이 아닌 단품으로 추정되어 대량 구매에는 부적합할 수 있습니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9304269585&itemId=14388090680&vendorItemId=75940133491&traceid=V0-153-ba368035bc76942b&requestid=20260713164027375123614998&token=31850C%7CGM)
 
 ## 5위: 메디힐 데일리 솔루션 마스크팩 3종 세트 — 피부 고민별 맞춤 케어
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="메디힐 데일리 솔루션 마스크팩 3종 세트" caption="메디힐 데일리 솔루션 마스크팩 3종 세트" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/d3b32788e0f9f8f9.webp" alt="메디힐 데일리 솔루션 마스크팩 3종 세트" caption="메디힐 데일리 솔루션 마스크팩 3종 세트" >}}
 메디힐 데일리 솔루션은 3가지 다른 솔루션 마스크팩이 한 세트로 구성되어 있어, 그날의 피부 상태에 따라 선택할 수 있습니다. 건조할 때는 보습 솔루션, 트러블이 있을 때는 진정 솔루션 등으로 활용할 수 있습니다. 메디힐은 믿고 쓰는 브랜드로, 피부 고민이 다양한 분께 유용합니다. 로켓배송과 쿠팡 2위 제품이라는 신뢰도가 높습니다. 평소에 여러 가지 마스크팩을 경험해보고 싶은 분께 추천합니다. 아쉬운 점은 3매 세트로 가격 대비 매수가 적어 장기적으로는 대용량 제품에 비해 비쌀 수 있습니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9072524953&itemId=21044654958&vendorItemId=73417351384&traceid=V0-153-357e84c118f1e24e&requestid=20260713164027375123614998&token=31850C%7CGM)

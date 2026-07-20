@@ -7,8 +7,8 @@ slug: "2026년-7월-스펙-비교-엘리메르-vs-디어글램-vs-제이에이�
 categories: ['추천']
 tags: ['나이트기미세럼EGF 세럼 추천', '디어글램', '추천', '엘리메르', '세럼', '나이트기미세럼EGF']
 cover:
-  image: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp"
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp"
+  image: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/8826f51ac6797694.webp"
+featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/8826f51ac6797694.webp"
 ---
 {{< lead >}}
 2026년 7월, 기미와 색소침착 고민으로 밤마다 세럼을 찾고 계신가요? EGF 성분과 트라넥삼산 성분 중 어떤 것이 내 피부에 더 효과적일지 고민이 많으실 텐데요. 오늘은 실제 구매자 평가와 성분 구성을 꼼꼼히 비교해, 나이트 루틴에 바로 적용할 수 있는 세럼을 추천해 드립니다.

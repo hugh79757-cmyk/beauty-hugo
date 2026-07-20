@@ -37,7 +37,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 1위: 메디힐 마데카소사이드 흔적 리페어 세럼 — 집중 케어용 가성비 세럼
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="메디힐 마데카소사이드 흔적 리페어 세럼" caption="<strong>주요 스펙:</strong> 40ml x 2개, 21,990원, 로켓배송" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/d3b32788e0f9f8f9.webp" alt="메디힐 마데카소사이드 흔적 리페어 세럼" caption="<strong>주요 스펙:</strong> 40ml x 2개, 21,990원, 로켓배송" >}}
 <strong>피부 타입:</strong> 민감성, 지성, 복합성 / <strong>주요 성분:</strong> 마데카소사이드, 히알루론산
 
 출근 전 5분 만에 스킨케어를 끝내야 하는 직장인에게 딱 맞는 제품입니다. 마데카소사이드 성분이 피부 진정에 도움을 주고, 히알루론산이 수분감을 채워줍니다. 세럼 타입이라 산뜻하게 발리고 끈적임이 적어 여름에도 부담 없이 사용할 수 있습니다. 2개 세트로 21,990원이면 개당 약 11,000원으로 가격 대비 만족도가 높습니다. 로켓배송으로 빠르게 받을 수 있고, 네이버 최저가 18,790원보다 더 저렴하게 구매할 기회입니다.
@@ -49,7 +49,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 2위: 동국제약 마데카 크림 시즌5 — 올타임 베스트셀러
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="동국제약 마데카 크림 시즌5" caption="<strong>주요 스펙:</strong> 50ml x 3개, 23,500원, 무료배송" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/6009281f7ec4d072.webp" alt="동국제약 마데카 크림 시즌5" caption="<strong>주요 스펙:</strong> 50ml x 3개, 23,500원, 무료배송" >}}
 <strong>피부 타입:</strong> 건성, 민감성, 복합성 / <strong>주요 성분:</strong> 센텔라아시아티카 추출물
 
 피부가 푸석푸석하고 붉은 기가 도는 민감성 피부에게 꾸준히 사랑받는 제품입니다. 센텔라아시아티카 성분이 피부 장벽을 케어하고 진정 효과를 줍니다. 크림 타입이지만 시즌5로 업그레이드되면서 덜 끈적이고 흡수가 빨라진 점이 좋습니다. 아침저녁으로 꾸준히 바르면 일주일 만에 피부결이 한결 부드러워지는 느낌을 받을 수 있습니다. 3개 구성으로 23,500원이면 개당 약 7,800원으로 매우 실속 있습니다. 쿠팡 2위 상품으로 리뷰도 풍부합니다.
@@ -61,7 +61,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 3위: 센텔리안24 솔루션 에센스 퍼펙션 — 지성·여드름 피부에 산뜻
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="센텔리안24 솔루션 에센스 퍼펙션" caption="<strong>주요 스펙:</strong> 120ml x 4개, 41,500원, 무료배송" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/4c89f6f69feb5874.webp" alt="센텔리안24 솔루션 에센스 퍼펙션" caption="<strong>주요 스펙:</strong> 120ml x 4개, 41,500원, 무료배송" >}}
 <strong>피부 타입:</strong> 지성, 여드름성 / <strong>주요 성분:</strong> 티트리, 마데카소사이드
 
 피지 분비가 많고 트러블이 잦은 지성 피부에게 제격입니다. 티트리 성분이 피지를 조절하고 마데카소사이드가 진정 효과를 더해줍니다. 에센스 제형이라 가볍게 흡수되며, 120ml 대용량 4개 구성이라 온 가족이 함께 사용하기 좋습니다. 개당 10,375원으로 에센스 치고는 가격이 부담 없습니다. 네이버 최저가 20,060원보다 훨씬 저렴하게 4개를 구매할 기회입니다. 여름철에 특히 산뜻하게 사용할 수 있습니다.
@@ -73,7 +73,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 4위: 센텔리안24 마데카크림 타이트 리프팅 — 탄력 케어 원한다면
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="센텔리안24 마데카크림 타이트 리프팅" caption="<strong>주요 스펙:</strong> 41,010원, 무료배송" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/4c89f6f69feb5874.webp" alt="센텔리안24 마데카크림 타이트 리프팅" caption="<strong>주요 스펙:</strong> 41,010원, 무료배송" >}}
 <strong>피부 타입:</strong> 건성, 탄력 부족 / <strong>주요 성분:</strong> 펩타이드, 센텔라아시아티카
 
 30대 중반 이후 피부 탄력이 걱정되는 분들에게 좋은 선택입니다. 기본 마데카 크림에 펩타이드 성분을 더해 리프팅 효과를 강화했습니다. 제형은 크림이지만 생각보다 무겁지 않고, 흡수 후 피부가 당겨지는 느낌이 줄어듭니다. 퇴근 후 저녁 루틴에 사용하기 좋으며, 꾸준히 바르면 탄력이 조금씩 개선되는 경험을 할 수 있습니다. 단, 용량이 명확하지 않아 한 번 구매 시 몇 ml인지 확인이 필요하지만, 네이버 최저가 7,030원보다는 쿠팡 가격이 높은 편이라 가격을 꼼꼼히 따져보는 것이 좋습니다.
@@ -85,7 +85,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 5위: 센텔리안24 마데카 탄력 풀케어 세트 — 올인원 루틴을 원한다면
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="센텔리안24 마데카 탄력 풀케어 세트" caption="<strong>주요 스펙:</strong> 토너+세럼+에멀젼+크림+아이크림 1세트, 55,900원, 무료배송" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/4c89f6f69feb5874.webp" alt="센텔리안24 마데카 탄력 풀케어 세트" caption="<strong>주요 스펙:</strong> 토너+세럼+에멀젼+크림+아이크림 1세트, 55,900원, 무료배송" >}}
 <strong>피부 타입:</strong> 전체 피부 타입 / <strong>주요 성분:</strong> 센텔라아시아티카, 콜라겐
 
 스킨케어 루틴을 한 번에 세팅하고 싶은 분들에게 완벽한 패키지입니다. 토너, 세럼, 에멀젼, 크림, 아이크림까지 5종이 들어 있어 별도로 제품을 고를 필요가 없습니다. 피부 장벽 강화와 탄력 케어를 동시에 원하는 분들에게 특히 좋습니다. 선물용으로도 인기가 많으며, 쿠팡 순위 5위에 오를 만큼 만족도가 높습니다. 55,900원이면 각 제품의 개별 구매 가격을 고려할 때 훨씬 경제적입니다. 출산 후 피부 관리에 신경 쓰는 엄마들이나, 피부과 시술 후 회복 관리용으로도 추천할 만합니다.
