@@ -1,0 +1,201 @@
+---
+title: "헤라 블랙 쿠션 vs 샵한현재 마스터 핏 2026년 7월 합격점 쿠션 파운데이션 TOP5"
+date: "2026-07-15 14:43:44+09:00"
+draft: "false"
+description: "2026년 7월, 출근 전 거울 앞에서 5분 만에 베이스 메이크업을 끝내고 싶은 당신. 쿠션 하나를 고르려 해도 수십 가지"
+slug: "hela-beullaeg-cushion-vs-syabhanhyeonjae-maseuteo-pis-2026-july-passing-grade-cushion-foundation-top5"
+categories: []
+tags: []
+cover: 
+  image: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/2026/07/15/76c299c7.webp"
+  relative: "true"
+featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/2026/07/15/76c299c7.webp"
+
+
+
+---
+
+<div style="margin:0 0 16px;padding:12px 16px;background:#f8fafc;border-radius:8px">
+<p style="margin:0 0 6px;font-size:13px;color:#6b7280">💡 다른 추천도 확인해보세요</p>
+<div style="display:flex;flex-wrap:wrap"><a href="https://appliance.informationhot.kr/posts/대성쎌틱듀플렉스-1등급-제습기-추천-19l20l-실속-선택-가이드-2026년-7월/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#db2777;font-weight:600;font-size:14px;margin-right:12px">🔌 1등급 제습기 추천</a>
+<a href="https://camping.informationhot.kr/posts/캠핑-칼-추천-로니베이msmultiverse-2026년-7월-실속-선택-가이드/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#db2777;font-weight:600;font-size:14px;margin-right:12px">⛺ 캠핑 칼 추천</a>
+</div>
+</div>
+
+
+
+{{< lead >}}
+2026년 7월, 출근 전 거울 앞에서 5분 만에 베이스 메이크업을 끝내고 싶은 당신. 쿠션 하나를 고르려 해도 수십 가지 브랜드에 가격도 천차만별이라 어떤 제품을 선택해야 할지 고민이 많을 거예요. 특히 3만 원대에서 5만 원대 사이 제품 중에서 커버력, 지속력, 광택감을 모두 만족하는 제품을 찾는다면 더욱 그렇죠.  시중에서 가장 주목받는 쿠션 파운데이션 5종을 꼼꼼히 비교해 드리겠습니다.
+{{< /lead >}}
+
+---
+
+<strong>쿠션 파운데이션 고를 때 확인할 포인트</strong>
+
+쿠션 파운데이션을 고를 때는 네 가지 핵심 요소를 먼저 따져보는 것이 좋습니다.
+
+<strong>커버력</strong> – 얇게 발리면서도 잡티나 모공을 어느 정도 가려주는지가 가장 중요합니다. 보통 '울트라 씬(Ultra Thin)'이나 '마스터 핏(Master Fit)' 같은 이름에서 제형의 두께를 유추할 수 있습니다. 잡티가 많은 피부라면 중간 이상 커버력을 선택하는 것이 좋고, 가볍게 톤업만 원한다면 얇은 제형이 적합합니다.
+
+<strong>지속력</strong> – 하루 종일 메이크업이 유지되는지 확인하세요. SPF50+ PA+++ 이상 자외선 차단 기능이 있으면 외부 활동이 많은 날에도 유용합니다. 8시간 이상 번짐 없이 유지되는 제품을 선호한다면 성분과 마감(새틴, 글로우, 매트)을 꼭 살펴보세요.
+
+<strong>광택감(피니시)</strong> – 세미글로우는 자연스러운 광채를, 매트는 번들거림을 잡아주며, 글로우는 촉촉하고 화사한 느낌을 줍니다. 자신의 피부 타입에 맞게 선택해야 합니다. 건성 피부는 글로우나 세미글로우, 지성 피부는 매트나 새틴 피니시가 무난합니다.
+
+<strong>용량과 구성</strong> – 본품만 있는 제품과 리필이 포함된 세트가 있습니다. 장기적으로 사용할 생각이라면 본품+리필 구성이 경제적입니다. 가격 대비 용량을 꼭 계산해 보세요.
+
+이 기준으로 실제 판매 순위와 가격을 종합해 엄선한 5가지 제품을 지금부터 추천합니다.
+
+---
+
+## 한눈에 보는 비교표
+
+| 제품 | 가격 | 피부 타입 적합 | 주요 성분 | 용량 | 배송 |
+|---|---|---|---|---|---|
+| 누디크 물광 쿠션 VER2 | 31,200원 | 건성/복합성 | 정보 없음 | 정보 없음 | 로켓배송 |
+| 샵 한현재 마스터 핏 쿠션 | 35,900원 | 중성/건성 | 정보 없음 | 본품 1개 | 로켓배송 |
+| 디어글램 울트라 씬 커버 쿠션 | 37,100원 | 지성/복합성 | 정보 없음 | 본품+리필 | 무료배송 |
+| 콰티 루메라 스킨베이스 새틴밤 쿠션 | 40,900원 | 모든 피부 타입 | 정보 없음 | 1개 | 로켓배송 |
+| 헤라 블랙 쿠션 파운데이션 듀오 | 57,230원 | 모든 피부 타입 | 정보 없음 | 본품 15g+리필 15g | 로켓배송 |
+
+※ 용량은 상품명에 명시된 것만 반영했습니다. 주요 성분 정보는 제공 데이터에 포함되지 않아 기재하지 않았습니다.
+
+---
+
+## 1위: 누디크 물광 쿠션 VER2 — 촉촉 광채에 기능성까지 갖춘 실속형
+
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/08dd7051432f58b0.webp" alt="누디크 물광 쿠션 반살쿠션 VER2" caption="누디크 물광 쿠션 반살쿠션 VER2" >}}
+가장 먼저 소개할 제품은 <strong>누디크 물광 쿠션 VER2</strong>입니다. 31,200원이라는 가격에 SPF50+ PA+++ 자외선 차단과 미백·주름 개선 기능성까지 갖춘 점이 돋보입니다. '물광'이라는 이름답게 촉촉하고 화사한 광채를 연출해 줘 건성 피부나 광채 메이크업을 선호하는 분들에게 잘 맞습니다.
+
+<strong>장점</strong> – 가격이 가장 저렴하면서도 자외선 차단 스펙이 뛰어나 외출 전 간단히 바르기 좋습니다. 본품 1개 구성이지만 로켓배송으로 빠르게 받을 수 있습니다.
+
+<strong>아쉬운 점</strong> – 용량이 명시되어 있지 않아 한 번에 얼마나 사용할 수 있는지 정확히 알기 어렵습니다. 또한 매우 얇은 제형은 아니라 지성 피부에는 다소 무거울 수 있습니다.
+
+입주민 모임이나 아이 등하원길에 가볍게 톤업만 하고 싶은 30~40대 여성이라면 이 제품이 부담 없는 가격으로 일상 메이크업을 완성해 줄 거예요.
+
+[쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=6675245361&itemId=15373282915&vendorItemId=89967392189&traceid=V0-153-534df84afa06d4da&clickBeacon=6a32f7f0-8020-11f1-b714-c4c6c74c71b1%7E3&requestid=20260715164013304016741107&token=31850C%7CMIXED)
+
+---
+
+## 2위: 샵 한현재 마스터 핏 쿠션 — 24시간 세미글로우 광채 커버의 정석
+
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/574dae666c87114c.webp" alt="샵 한현재 마스터 핏 쿠션 본품" caption="샵 한현재 마스터 핏 쿠션 본품" >}}
+<strong>샵 한현재 마스터 핏 쿠션</strong>은 쿠팡 랭킹 2위에 오를 만큼 인기를 끌고 있는 제품입니다. 35,900원이라는 가격에 '24시간 세미글로우'라는 표현에서 알 수 있듯 오랜 시간 자연스러운 광채를 유지해 줍니다. 본품 23호(미디엄 베이지) 1개로 구성되어 있으며 로켓배송이 가능합니다.
+
+<strong>장점</strong> – 세미글로우 피니시가 번들거리지 않으면서도 적당한 윤기를 줘 중성~건성 피부에 잘 어울립니다. 커버력이 중간 이상이라 잡티가 있는 부위를 꼼꼼히 덮어줍니다.
+
+<strong>아쉬운 점</strong> – 리필이 포함되어 있지 않아 본품을 다 쓰면 추가 구매가 필요합니다. 용량도 명시되어 있지 않아 정확한 사용 기간을 예측하기 어렵습니다.
+
+오전 9시 출근부터 저녁 약속까지 메이크업이 무너지지 않길 바라는 직장인이라면, 이 제품의 지속력과 광채가 큰 도움이 될 것입니다. 특히 사무실 형광등 아래에서도 과하지 않은 자연스러운 피부 표현을 원하는 분께 추천합니다.
+
+[쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=8903639609&itemId=27030585858&vendorItemId=94000290640&traceid=V0-153-326af5295649280c&clickBeacon=6a32f7f0-8020-11f1-b0bb-f1484b4e79c7%7E3&requestid=20260715164013304016741107&token=31850C%7CMIXED)
+
+---
+
+## 3위: 디어글램 울트라 씬 커버 쿠션 — 얇지만 커버력은 기본
+
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/bc7b04ef9cdc5ef4.webp" alt="디어글램 울트라 씬 커버 쿠션 본품+리필세트" caption="<strong>디어글램 울트라 씬 커버 쿠션</strong>은 이름 그대로 '울트라 씬(Ultra Thin)' — 매우 얇은 제형이 특징입니다. 37,100원에 본품과 리필이 함께 들어 있어 가격 대비 알찬 구성입니다. 23호 베이지 색상으로 무료배송으로 제공됩니다." >}}
+<strong>장점</strong> – 얇게 발리면서도 커버력이 생각보다 좋아 지성 피부나 복합성 피부가 부담 없이 사용하기 좋습니다. 리필이 포함되어 있어 본품 하나 값으로 두 배 사용할 수 있다는 점이 실용적입니다.
+
+<strong>아쉬운 점</strong> – 로켓배송이 아닌 일반 무료배송이라 배송이 하루 정도 더 걸릴 수 있습니다. 또한 광채보다는 매트에 가까운 마감이라 건성 피부는 프라이머를 함께 사용해야 할 수 있습니다.
+
+여름철 번들거림이 걱정되는 20대 직장인이나 학생이라면, 얇은 제형으로 밀리지 않고 오래 가는 이 제품이 딱 맞을 거예요. 파우더 없이도 산뜻한 느낌을 유지하고 싶을 때 유용합니다.
+
+[쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9487605021&itemId=28269664644&vendorItemId=88728602139&traceid=V0-153-3f1cfec891dab02f&clickBeacon=6a32f7f0-8020-11f1-bbcc-d514bba2b015%7E3&requestid=20260715164013304016741107&token=31850C%7CMIXED)
+
+---
+
+## 4위: 콰티 루메라 스킨베이스 새틴밤 쿠션 — 새틴 매트 피니시의 색조 플레이
+
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/e842be5dcf38b2da.webp" alt="콰티 루메라 스킨베이스 새틴밤 쿠션" caption="콰티 루메라 스킨베이스 새틴밤 쿠션" >}}
+<strong>콰티 루메라 스킨베이스 새틴밤 쿠션</strong>은 새틴(Satin) 피니시로 유광과 무광의 중간 지점을 추구합니다. 40,900원에 19 퓨어(밝은 톤) 색상 1개가 제공되며 로켓배송이 가능합니다. 브랜드명이 '콰티'로 표시되어 있지만 시중에서 '루메라' 라인으로 알려져 있습니다.
+
+<strong>장점</strong> – 새틴 마감이 피부 결을 매끄럽게 정리해 주고, 지나친 광택을 잡아줘 모든 피부 타입이 무난하게 쓸 수 있습니다. 자체 색상 표현이 독특해서 톤 보정 효과가 뛰어납니다.
+
+<strong>아쉬운 점</strong> – 용량 정보가 명확하지 않고, 네이버 최저가가 66,300원으로 쿠팡 가격보다 높아 가격 변동이 있을 수 있습니다. 쿠팡에서 40,900원에 구매할 수 있다면 합리적인 선택입니다.
+
+특정 색조 브랜드를 선호하지 않으면서 새틴 마감으로 우아한 피부 표현을 원하는 분께 적합합니다. 특히 퓨어 계열 19호는 밝은 피부에 푸른기가 도는 톤을 중화시켜 줍니다.
+
+[쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9259546517&itemId=27395756711&vendorItemId=94361505276&traceid=V0-153-beb6587120b3a4ed&clickBeacon=6a32f7f0-8020-11f1-b360-d1c904e8bc97%7E3&requestid=20260715164013304016741107&token=31850C%7CMIXED)
+
+---
+
+## 5위: 헤라 블랙 쿠션 파운데이션 듀오 — 명품 쿠션의 대명사, 리필까지 듀얼 구성
+
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/e5c3ebe07d1c0b37.webp" alt="헤라 블랙 쿠션 파운데이션 듀오" caption="헤라 블랙 쿠션 파운데이션 듀오" >}}
+마지막은 <strong>헤라 블랙 쿠션 파운데이션 듀오</strong>입니다. 57,230원으로 이번 리스트에서 가장 비싸지만, 본품 15g과 리필 15g이 함께 들어 실질적인 용량은 30g에 달합니다. 로켓배송으로 받을 수 있습니다. 헤라 블랙 쿠션은 국내 쿠션 시장에서 오랜 역사를 가진 베스트셀러입니다.
+
+<strong>장점</strong> – 얇고 균일하게 발리면서도 커버력과 지속력이 뛰어납니다. 모든 피부 타입에 무난하게 사용 가능하며, 리필까지 포함해 가격 대비 용량이 우수합니다. 특히 피부에 밀착력이 좋아 이물감이 적습니다.
+
+<strong>아쉬운 점</strong> – 가격대가 5만 원을 넘어 부담스러울 수 있습니다. 세미매트 피니시라 광채를 원하는 건성 피부에는 다소 건조할 수 있습니다.
+
+결혼식이나 중요한 자리에서 실수하고 싶지 않은 순간, 믿을 수 있는 쿠션이 필요하다면 헤라 블랙 쿠션이 정답입니다. 특히 한 번 바르면 오후까지 터치업 없이 지속되는 점이 큰 장점입니다.
+
+[쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=8023900926&itemId=22423297869&vendorItemId=91176663125&traceid=V0-153-9cf17083c2bbeada&requestid=20260715164013977155737812&token=31850C%7CMIXED)
+
+---
+
+## 자주 묻는 질문
+
+### 쿠션 파운데이션은 어떤 피부 타입에 가장 효과적인가요?
+
+건성 피부는 글로우나 세미글로우 제품이, 지성 피부는 매트나 새틴 제품이 적합합니다. 복합성 피부는 번들거림이 적은 세미매트나 새틴 피니시를 권장합니다. 본문에서 소개한 제품 중 누디크 물광 쿠션은 건성용, 디어글램 울트라 씬은 지성용으로 특히 잘 맞습니다.
+
+### 가격 대비 용량이 가장 좋은 제품은 무엇인가요?
+
+헤라 블랙 쿠션 듀오는 본품+리필로 총 30g을 57,230원에 제공해 단가로 보면 1g당 약 1,900원으로 상대적으로 저렴합니다. 디어글램 울트라 씬도 본품+리필 세트라 가격 대비 만족도가 높습니다.
+
+### 로켓배송되는 제품은 어떤 것이 있나요?
+
+누디크 물광 쿠션(31,200원), 샵 한현재 마스터 핏 쿠션(35,900원), 콰티 루메라 새틴밤 쿠션(40,900원), 헤라 블랙 쿠션 듀오(57,230원) 등 네 제품이 로켓배송 가능합니다. 디어글램 울트라 씬만 일반 무료배송입니다.
+
+### 쿠션 파운데이션 사용 시 주의할 점이 있나요?
+
+퍼프를 너무 세게 누르면 제품이 과다 묻어 두껍게 발릴 수 있습니다. 퍼프에 소량 덜어 두드리듯 펴 바르는 것이 가장 자연스럽습니다. 또한 SPF 기능이 있는 제품이라도 자외선 차단을 완전히 믿기보다 선크림을 따로 바르는 것이 좋습니다.
+
+---
+
+## 상황별 추천 정리
+
+<strong>매일 출근 전 5분 만에 메이크업을 끝내야 하는 직장인</strong>이라면 <strong>샵 한현재 마스터 핏 쿠션</strong>(35,900원)을 추천합니다. 세미글로우 피니시가 사무실 조명에서도 자연스럽고, 지속력이 좋아 점심시간 터치업이 거의 필요 없습니다.
+
+<strong>여름철 번들거림이 신경 쓰이는 지성 피부의 학생이나 활동적인 분</strong>은 <strong>디어글램 울트라 씬 커버 쿠션</strong>(37,100원)이 좋습니다. 얇은 제형으로 밀리지 않고 리필까지 포함돼 경제적입니다.
+
+<strong>가격 부담 없이 광채 메이크업을 즐기고 싶은 주부</strong>라면 <strong>누디크 물광 쿠션 VER2</strong>(31,200원)으로 시작해 보세요. SPF50+ 기능성까지 갖춰 외출 전 간편하게 바르기 좋습니다.
+
+<strong>어떤 자리에서도 실수하지 않을 쿠션을 원하는 분</strong>에게는 <strong>헤라 블랙 쿠션 듀오</strong>(57,230원)를 최종 추천합니다. 명품 브랜드의 안정감과 30g 대용량이 합리적입니다.
+
+로켓배송 표기 제품을 우선 고려하세요. 빠른 배송으로 내일 아침부터 사용할 수 있습니다. 지금 쿠팡에서 특가로 만나보세요.
+
+이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
+
+<div class="cta-box" style="background:#f8f9fa;padding:16px;border-radius:8px;text-align:center;margin:24px 0">
+<p style="font-size:16px;font-weight:700;margin:0 0 8px">💡 구매 팁</p>
+<p style="font-size:14px;margin:0 0 12px;color:#555">위 상품들의 가격은 변동될 수 있으니 최신 가격을 꼭 확인해보세요.<br>아래 링크에서 자세한 정보와 후기를 확인할 수 있습니다.</p>
+</div>
+
+
+<div style="margin:20px 0;padding:16px;background:#fafbfc;border-radius:12px;border:1px solid #e8ecf0">
+<p style="margin:0 0 10px;font-weight:600;font-size:15px;color:#374151">🛍️ 이런 상품도 좋아하실 거예요</p>
+<div style="display:flex;flex-wrap:wrap;gap:4px">
+<a href="https://appliance.informationhot.kr/posts/대성쎌틱듀플렉스-1등급-제습기-추천-19l20l-실속-선택-가이드-2026년-7월/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🔌 1등급 제습기 추천</a>
+<a href="https://camping.informationhot.kr/posts/캠핑-칼-추천-로니베이msmultiverse-2026년-7월-실속-선택-가이드/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">⛺ 캠핑 칼 추천</a>
+<a href="https://interior.informationhot.kr/posts/2026년-7월-2층-침대-추천-일루일루-코지스칸디아-시몬-14만원대부터-73만원대까지-실속-비교/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🛋️ 2층 침대 추천</a>
+<a href="https://health.informationhot.kr/posts/2026년-7월-뼈-건강-영양제-추천-광동삼성제약-실속부터-고함량까지/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🍎 뼈 건강 영양제 추천</a>
+</div>
+</div>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "name": "헤라 블랙 쿠션 vs 샵한현재 마스터 핏 — 2026년 7월 합격점 쿠션 파운데이션 TOP5",
+  "description": "2026년 7월, 출근 전 거울 앞에서 5분 만에 베이스 메이크업을 끝내고 싶은 당신. 쿠션 하나를 고르려 해도 수십 가지 브랜드에 가격도 천차만별이라 어떤 제품을 선택해야 할지 고민이 많을 거예요. 특히 3만 원대에서 5만 원대 사이 제품 중에서 커버력, 지속력, 광택감을 모두 만족하",
+  "datePublished": "2026-07-15T14:43:44+09:00",
+  "author": {
+    "@type": "Person",
+    "name": "뷰티/스킨케어 추천 가이드"
+  },
+  "url": "https://beauty.informationhot.kr/posts/헤라-블랙-쿠션-vs-샵한현재-마스터-핏-2026년-7월-합격점-쿠션-파운데이션-top5/",
+  "keywords": "헤라, 디어글램, 누디크, 쿠션 파운데이션 추천, UNKNOWN, 샵한현재"
+}
+</script>

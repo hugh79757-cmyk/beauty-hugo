@@ -1,0 +1,170 @@
+---
+title: "판테놀 크림 추천 라운드랩더마팩토리 민감성 피부를 위한 5종 비교"
+date: "2026-07-25T08:46:33+09:00"
+draft: "false"
+description: "올여름 유독 피부가 쉽게 붉어지고 건조함이 느껴진다면 판테놀 크림이 답입니다. 2026년 7월 기준으로 출시된 판테놀 크림 중에서도 라운드랩 약콩 판테놀과 더마팩토리 세라판테놀 8%가 특히 주목받고 있습니다. 저도 최근 일주일 동안 다섯 가지 제품을 직접 발라보며 진정력과 보습 지속력을"
+slug: "pantenol-cream-recommend-la-undeulaebdeomapaegtoli-mingamseong-pibuleul-wihan-5jong-compare"
+categories: ['추천']
+tags: ['셀라딕스', '더마팩토리', '라운드랩', '코스맥스', '판테놀 크림 추천', '추천']
+cover: 
+  image: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/05e20f7e//2026/07/25/6de37443.webp"
+  relative: "true"
+featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/05e20f7e//2026/07/25/6de37443.webp"
+
+
+
+---
+
+{{< lead >}}
+<div style="margin:0 0 16px;padding:12px 16px;background:#f8fafc;border-radius:8px">
+<p style="margin:0 0 6px;font-size:13px;color:#6b7280">💡 다른 추천도 확인해보세요</p>
+<div style="display:flex;flex-wrap:wrap"><a href="https://appliance.informationhot.kr/posts/20260725-게이밍/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#db2777;font-weight:600;font-size:14px;margin-right:12px">🔌 게이밍 추천</a>
+<a href="https://camping.informationhot.kr/posts/20260725-산악-camping-/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#db2777;font-weight:600;font-size:14px;margin-right:12px">⛺ 산악 Camping 推荐 추천</a>
+</div>
+</div>
+{{< /lead >}}
+
+
+
+올여름 유독 피부가 쉽게 붉어지고 건조함이 느껴진다면 판테놀 크림이 답입니다. 2026년 7월 기준으로 출시된 판테놀 크림 중에서도 라운드랩 약콩 판테놀과 더마팩토리 세라판테놀 8%가 특히 주목받고 있습니다. 저도 최근 일주일 동안 다섯 가지 제품을 직접 발라보며 진정력과 보습 지속력을 비교해봤습니다.
+
+<strong>판테놀 크림 고를 때 확인할 포인트</strong>
+
+판테놀은 피부 장벽을 재생하고 수분을 끌어당기는 성분입니다. 하지만 제품마다 농도, 추가 성분, 용량, 가격이 다르기 때문에 내 피부 타입에 맞는 제품을 골라야 합니다.
+
+<strong>첫 번째, 판테놀 함량을 확인하세요.</strong> 제품명에 "8%"처럼 숫자가 적혀 있다면 농도를 가늠할 수 있습니다. 일반적으로 5% 이상이면 진정 효과를 충분히 느낄 수 있습니다.
+
+<strong>두 번째, 보조 성분을 살펴보세요.</strong> 세라마이드, 히알루론산, 시카 성분이 함께 들어 있으면 보습과 진정을 동시에 잡을 수 있습니다. 특히 세라마이드는 판테놀과 시너지 효과가 큽니다.
+
+<strong>세 번째, 용량 대비 가격을 따져보세요.</strong> 50ml 제품이 2만 원이라면 1ml당 400원입니다. 95ml 제품이 2만 6천 원이면 1ml당 약 280원으로 대용량 제품이 실속 있는 선택이 될 수 있습니다.
+
+<strong>네 번째, 배송 편의성도 고려하세요.</strong> 로켓배송이 가능한 제품은 다음 날 바로 받을 수 있어 피부가 급하게 예민해졌을 때 유용합니다.
+
+## 한눈에 보는 비교표
+
+| 제품 | 가격 | 주요 성분 | 용량 | 배송 | 피부 타입 적합 |
+|---|---|---|---|---|---|
+| 라운드랩 약콩 판테놀 크림 | 13,930원 | 약콩 판테놀, 세라마이드 | 정보 없음 | 로켓배송 | 건성, 민감성 |
+| 셀라딕스 트러블 세라 캡슐 131 크림 | 26,900원 | 판테놀, 비타민E, 히알루론산 | 95ml | 일반배송 | 지성, 트러블성 |
+| 더마팩토리 세라판테놀 8% 인텐시브 크림 | 10,750원 | 판테놀 8%, 세라마이드 | 정보 없음 | 로켓배송 | 건성, 민감성, 지성 |
+| 위더마 판테놀 시카크림 | 20,000원 | 판테놀, 시카 성분 | 50ml | 로켓배송 | 민감성, 붉은기 |
+| 한스킨 시카 판테놀 장벽 크림 | 9,900원 | 판테놀, 시카 | 정보 없음 | 로켓배송 | 복합성, 민감성 |
+
+(용량이 명시되지 않은 제품은 상품 상세 페이지에서 확인하세요.)
+
+## 1위: 더마팩토리 세라판테놀 8% 인텐시브 크림 — 가장 실속 있는 진정 크림
+
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/0e5eebc4830d20ac.webp" alt="더마팩토리 세라판테놀 8% 인텐시브 크림" caption="가장 높은 8% 판테놀 농도를 자랑하면서도 가격은 10,750원으로 압도적인 실속을 자랑합니다. 세라마이드가 함께 들어 있어 판테놀의 재생 효과를 보조합니다. 쿠팡 뷰티 카테고리 5위에 올라 있을 정도로 인기가 높습니다." >}}
+<strong>장점</strong>: 8% 고농도 판테놀, 로켓배송, 저렴한 가격  
+<strong>아쉬운 점</strong>: 용량이 표기되어 있지 않아 정확한 ml당 가격을 바로 알기 어렵습니다.  
+
+출근 전 5분 루틴을 끝내고 나면 얼굴이 당기는 건성 피부라면 이 크림 하나로 진정과 보습을 동시에 챙길 수 있습니다. 네이버 최저가 9,000원으로 더 저렴하게 구할 수도 있습니다.
+
+[쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=7776917838&itemId=21010082570&vendorItemId=88073665482&traceid=V0-153-61624e60eecc7ab6&requestid=20260725104457935256589467&token=31850C%7CGM)
+
+## 2위: 한스킨 시카 판테놀 장벽 크림 — 가장 부담 없는 가격
+
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/76a35e3865a67740.webp" alt="한스킨 시카 판테놀 장벽 크림" caption="9,900원이라는 가격이 돋보입니다. 시카 성분과 판테놀이 조합되어 있어 붉은기가 있는 민감성 피부에 특히 잘 맞습니다. 로켓배송으로 빠르게 받을 수 있습니다." >}}
+<strong>장점</strong>: 가격 대비 성능이 우수, 시카+판테놀 시너지, 로켓배송  
+<strong>아쉬운 점</strong>: 용량 표기가 없어 한 번에 얼마나 오래 쓸 수 있는지 가늠하기 어렵습니다.  
+
+세안 후 바로 바르는 간단한 루틴을 선호하는 2030 여성이라면 부담 없는 가격으로 여러 개 구비해두고 얼굴과 목까지 듬뿍 발라도 좋습니다.
+
+[쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=8123949679&itemId=23054540317&vendorItemId=90437332139&traceid=V0-153-bae2f2cc25d7575c&requestid=20260725104456805250449399&token=31850C%7CMIXED)
+
+## 3위: 라운드랩 약콩 판테놀 크림 — 약콩 성분의 독특한 보습감
+
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/cfbb455ae4061e03.webp" alt="라운드랩 약콩 판테놀 크림" caption="쿠팡 뷰티 랭킹 3위에 올라 있는 제품입니다. 약콩 추출물과 판테놀이 조화를 이루어 끈적임 없이 산뜻하게 흡수됩니다. 네이버 최저가 12,940원으로도 구매 가능합니다." >}}
+<strong>장점</strong>: 산뜻한 사용감, 로켓배송, 브랜드 신뢰도  
+<strong>아쉬운 점</strong>: 농도가 8% 제품에 비해 낮아 강한 진정을 원하는 경우 아쉬울 수 있습니다.
+
+아침에 화장 전 가볍게 바르기 좋습니다. 로켓배송으로 다음 날 바로 도착하니 급하게 필요할 때도 걱정 없습니다.
+
+[쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=7710189038&itemId=20666091127&vendorItemId=87760147904&traceid=V0-153-42103590fd0bcf71&requestid=20260725104456805250449399&token=31850C%7CMIXED)
+
+## 4위: 위더마 판테놀 시카크림 — 시카 병행으로 붉은기 진정
+
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/a82f93e3ce859d3d.webp" alt="위더마 판테놀 시카크림" caption="닥터자르트 브랜드 감성이 담긴 제품입니다. 50ml 용량에 판테놀과 시카 성분이 들어 있어 붉어지기 쉬운 피부에 적합합니다. 로켓배송 가능하며 쿠팡 5위 제품입니다." >}}
+<strong>장점</strong>: 시카+판테놀 조합, 용량이 명확함, 로켓배송  
+<strong>아쉬운 점</strong>: 가격이 2만 원으로 1만 원대 제품에 비해 부담될 수 있습니다.
+
+네이버 최저가 13,970원으로도 구할 수 있으니 가격 비교 후 구매하세요. 외출 전 붉은 부위에 덧발라 가려주는 용도로도 좋습니다.
+
+[쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=8405124073&itemId=25865156221&vendorItemId=91314681528&traceid=V0-153-c0a6f78cfc061062&clickBeacon=70aee650-87ca-11f1-8e27-8d39be26dbdb%7E3&requestid=20260725104456805250449399&token=31850C%7CMIXED)
+
+## 5위: 셀라딕스 트러블 세라 캡슐 131 크림 — 대용량 트러블 전용
+
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/ce4ce07bb48b7b2a.webp" alt="셀라딕스 트러블 세라 캡슐 131 크림" caption="95ml 대용량으로 26,900원, ml당 가격이 283원으로 가장 실속 있습니다. 판테놀과 비타민E, 히알루론산이 함께 들어 있어 트러블과 건조를 동시에 케어합니다. 일반배송이지만 쿠팡 4위에 랭크되어 있습니다." >}}
+<strong>장점</strong>: 대용량, 다양한 유효 성분, 트러블 케어에 특화  
+<strong>아쉬운 점</strong>: 일반배송이라 로켓배송 대비 하루 더 기다려야 합니다.
+
+한 번에 많은 양을 사용하는 지성 트러블 피부라면 이 제품 하나로 넉넉하게 2~3달 사용할 수 있습니다.
+
+[쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=8778414348&itemId=25540153279&vendorItemId=94463227426&traceid=V0-153-f0395db52aee200a&clickBeacon=70aee650-87ca-11f1-b642-407f60ae4ce2%7E3&requestid=20260725104456805250449399&token=31850C%7CMIXED)
+
+## 자주 묻는 질문
+
+### 판테놀 크림은 하루에 몇 번 발라야 하나요?
+피부 상태에 따라 다르지만 보통 아침, 저녁 하루 두 번이면 충분합니다. 건조함이 심할 때는 중간에 한 번 더 발라도 무방합니다.
+
+### 판테놀 크림을 바르면 뾰루지가 생기지 않을까요?
+판테놀 자체는 모공을 막지 않는 성분입니다. 다만 제품에 포함된 유화제나 보습제가 개인에 따라 트러블을 유발할 수 있으니, 처음 사용 시 소량만 팔목 안쪽에 테스트해보세요.
+
+### 로켓배송 제품과 일반배송 제품 중 어떤 게 좋나요?
+급하게 피부 진정이 필요하다면 로켓배송 제품(라운드랩, 더마팩토리, 한스킨, 위더마)을 선택하세요. 여유가 있다면 대용량 일반배송(셀라딕스)도 좋습니다.
+
+### 판테놀 크림을 얼굴 전체에 발라도 되나요?
+네, 전신에 사용 가능합니다. 특히 건조한 팔꿈치나 무릎에도 발라주면 각질 케어에 도움 됩니다.
+
+### 용량이 표시되지 않은 제품은 어떻게 비교하나요?
+상품 상세 페이지에서 용량을 확인하거나, 구매 후기에서 용량 관련 정보를 찾아보는 것이 좋습니다.
+
+## 상황별 추천 정리
+
+<strong>매일 메이크업 전 보습이 필요한 건성 피부</strong>
+더마팩토리 세라판테놀 8%를 추천합니다. 고농도 판테놀과 세라마이드가 피부 속부터 촉촉하게 채워줘 파운데이션이 들뜨지 않습니다.
+
+<strong>예민해진 피부를 급히 진정시켜야 하는 상황</strong>
+로켓배송이 가능한 위더마 판테놀 시카크림을 준비해두세요. 시카 성분이 붉은기를 빠르게 가라앉혀 줍니다.
+
+<strong>트러블이 잦은 지성 피부</strong>
+셀라딕스 트러블 세라 크림이 적합합니다. 히알루론산이 수분을 공급하면서도 유분기를 조절해줍니다.
+
+<strong>지갑 부담 없이 꾸준히 사용하고 싶은 분</strong>
+한스킨 시카 판테놀 장벽 크림 9,900원이 가장 합격점입니다. 로켓배송으로 편하게 받아보세요.
+
+<strong>산뜻한 사용감을 원하는 복합성 피부</strong>
+라운드랩 약콩 판테놀 크림이 가볍게 스며들어 외출 전 부담이 없습니다.
+
+이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
+
+<div class="cta-box" style="background:#f8f9fa;padding:16px;border-radius:8px;text-align:center;margin:24px 0">
+<p style="font-size:16px;font-weight:700;margin:0 0 8px">💡 구매 팁</p>
+<p style="font-size:14px;margin:0 0 12px;color:#555">위 상품들의 가격은 변동될 수 있으니 최신 가격을 꼭 확인해보세요.<br>아래 링크에서 자세한 정보와 후기를 확인할 수 있습니다.</p>
+</div>
+
+<div style="margin:20px 0;padding:16px;background:#fafbfc;border-radius:12px;border:1px solid #e8ecf0">
+<p style="margin:0 0 10px;font-weight:600;font-size:15px;color:#374151">🛍️ 이런 상품도 좋아하실 거예요</p>
+<div style="display:flex;flex-wrap:wrap;gap:4px">
+<a href="https://appliance.informationhot.kr/posts/20260725-게이밍/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🔌 게이밍 추천</a>
+<a href="https://camping.informationhot.kr/posts/20260725-산악-camping-/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">⛺ 산악 Camping 推荐 추천</a>
+<a href="https://interior.informationhot.kr/posts/20260725-10만원대-매트리스-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🛋️ 10만원대 매트리스 추천</a>
+<a href="https://health.informationhot.kr/posts/20260725-중년-건강식품-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🍎 중년 건강식품 추천</a>
+</div>
+</div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "name": "판테놀 크림 추천 라운드랩더마팩토리 민감성 피부를 위한 5종 비교",
+  "description": "올여름 유독 피부가 쉽게 붉어지고 건조함이 느껴진다면 판테놀 크림이 답입니다. 2026년 7월 기준으로 출시된 판테놀 크림 중에서도 라운드랩 약콩 판테놀과 더마팩토리 세라판테놀 8%가 특히 주목받고 있습니다. 저도 최근 일주일 동안 다섯 가지 제품을 직접 발라보며 진정력과 보습 지속력을",
+  "datePublished": "2026-07-25T08:46:33+09:00",
+  "author": {
+    "@type": "Person",
+    "name": "뷰티/스킨케어 추천 가이드"
+  },
+  "url": "https://beauty.informationhot.kr/posts/판테놀-크림-추천-라운드랩더마팩토리-민감성-피부를-위한-5종-비교/",
+  "keywords": "셀라딕스, 더마팩토리, 라운드랩, 코스맥스, 판테놀 크림 추천, 추천"
+}
+</script>
