@@ -149,8 +149,8 @@ featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-image
 <div style="display:flex;flex-wrap:wrap;gap:4px">
 <a href="https://appliance.informationhot.kr/posts/슈어홈에어독-필터-교체-없는-공기청정기-추천-2026년-7월-워셔블-5종-비교/"" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🔌 30평 공기청정기 추천 추천</a>
 <a href="https://camping.informationhot.kr/posts/3만원대부터-20만원대까지-실속-캠핑-난로-추천-파세코나비아짐머만/"" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">⛺ 캠핑 조명 추천 추천</a>
-<a href="https://interior.informationhot.kr/posts/2026년-7월-퀸-침대-추천-흔한-오해-3가지-오키멧아너스하포스-사례로-바로잡기/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🛋️ 인테리어 추천</a>
-<a href="https://health.informationhot.kr/posts/2026년-7월-항산화-영양제-추천-뉴트리정gnm동화약품-하루-300원대부터-시작하는-선택/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🍎 건강식품 추천</a>
+<a href="https://interior.informationhot.kr/posts/코디-3등-주방등-vs-삼팔글로벌-led-벽등-북유럽-인테리어-소품-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🛋️ 인테리어 추천</a>
+<a href="https://health.informationhot.kr/posts/hellobio-vs-nowcare-혈압-건강식품-어떤-성분을-골라야-할까/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🍎 건강식품 추천</a>
 </div>
 </div>
 

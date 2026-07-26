@@ -156,8 +156,8 @@ EGF올로지 액티브 EGF 앰플 미스트는 로켓배송으로 다음 날 수
 <div style="display:flex;flex-wrap:wrap;gap:4px">
 <a href="https://appliance.informationhot.kr/posts/대성쎌틱듀플렉스-1등급-제습기-추천-19l20l-실속-선택-가이드-2026년-7월/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🔌 1등급 제습기 추천</a>
 <a href="https://camping.informationhot.kr/posts/캠핑-칼-추천-로니베이msmultiverse-2026년-7월-실속-선택-가이드/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">⛺ 캠핑 칼 추천</a>
-<a href="https://interior.informationhot.kr/posts/2026년-7월-2층-침대-추천-일루일루-코지스칸디아-시몬-14만원대부터-73만원대까지-실속-비교/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🛋️ 2층 침대 추천</a>
-<a href="https://health.informationhot.kr/posts/2026년-7월-뼈-건강-영양제-추천-광동삼성제약-실속부터-고함량까지/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🍎 뼈 건강 영양제 추천</a>
+<a href="https://interior.informationhot.kr/posts/2cheung-bed-recommend-illu-illu-kojiseukandi-a-simon-14man-wondaebuteo-73man-wondae-kkaji-practical-compare/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🛋️ 2층 침대 추천</a>
+<a href="https://health.informationhot.kr/posts/ppyeo-geongang-supplement-recommend-insake-eo-teunteunhan-chi-a-vs-ssiseupang-jointpalpal-peulleoseu/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🍎 뼈 건강 영양제 추천</a>
 </div>
 </div>
 
