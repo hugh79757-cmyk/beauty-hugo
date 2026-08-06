@@ -81,7 +81,7 @@ EGF 10ppm은 피부 세포 재생을 촉진하고 미백 효과까지 기대할 
 
 {{< figure src=\"https://ads-partners.coupang.com/image1/qdgPioCqEceedOABqVhOQz5bZXfT5hLm3aJu5rltSvZjumi1mQ0sd0RoDG8Z186aRZlfU7-P8doVNhRyAMmrHCxcZ3ja9nagvsm8-etGvdwbwR6PpXNqQrV8dvAVTEbEVDyDhfQe4YA_uYHcxNm0wNvrU_yz0m6AMZhL-5k4UiOYiokhXi8GaUwAhRfEGtZ9ys6XyAh5wTrsjATVOHtrg4AGOgzO3Hlgkm6wnCmNj071OtNddZtUnHurloHD5Z8SvzAJubEWrlaEgb2c_tWlsMkOZul2L-4ROMtucxyoLQc_H2W1HaFBNiia\" alt=\"디어글램 트라넥삼산 13.0 세럼\" caption=\"<strong>핵심 스펙:</strong> 트라넥삼산 13.0%, 50ml, 세럼 타입\" >}}
 
-디어글램의 이 세럼은 트라넥삼산을 13.0% 함유해 기미와 잡티 개선에 특화된 제품입니다. 트라넥삼산은 미백 기능성 원료로, 멜라닌 생성을 억제해 기미와 색소침착을 줄이는 데 도움을 줍니다.
+디어글램의 이 세럼은 트라넥삼산을 13.0% 함유해 기미와 잡티 개선에 특화된 제품입니다. 트라넥삼산은 미백 기능성 원료로, 멜라닌 생성을 억제해 기미와 색소침착을 줄이는 데 도움을 줄 수 있습니다.
 
 <strong>장점:</strong> 트라넥삼산 13.0%라는 높은 농도로 기미 케어 효과가 기대됩니다. 50ml 대용량이며 로켓배송으로 빠르게 받을 수 있습니다.
 
@@ -123,7 +123,7 @@ EGF 10ppm은 피부 세포 재생을 촉진하고 미백 효과까지 기대할 
 
 ### EGF 세럼과 트라넥삼산 세럼 중 어떤 것이 더 효과적인가요?
 
-EGF는 피부 재생과 세포 활성화에 초점을 맞춘 성분으로, 피부결 개선과 미백에 도움을 줍니다. 트라넥삼산은 멜라닌 합성을 직접 억제해 기미와 색소침착 개선에 특화되어 있습니다. 두 성분 모두 미백에 효과적이지만, 기미가 뚜렷하다면 트라넥삼산 세럼을, 피부 재생과 전반적인 피부 톤 개선을 원한다면 EGF 세럼을 선택하는 것이 좋습니다.
+EGF는 피부 재생과 세포 활성화에 초점을 맞춘 성분으로, 피부결 개선과 미백에 도움을 줄 수 있습니다. 트라넥삼산은 멜라닌 합성을 직접 억제해 기미와 색소침착 개선에 특화되어 있습니다. 두 성분 모두 미백에 효과적이지만, 기미가 뚜렷하다면 트라넥삼산 세럼을, 피부 재생과 전반적인 피부 톤 개선을 원한다면 EGF 세럼을 선택하는 것이 좋습니다.
 
 ### 나이트 루틴에서 세럼은 언제 바르는 것이 좋나요?
 

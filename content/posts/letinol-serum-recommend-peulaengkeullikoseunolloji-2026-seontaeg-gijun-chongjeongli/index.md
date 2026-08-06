@@ -19,7 +19,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 <div style="margin:0 0 16px;padding:12px 16px;background:#f8fafc;border-radius:8px">
 <p style="margin:0 0 6px;font-size:13px;color:#6b7280">💡 다른 추천도 확인해보세요</p>
 <div style="display:flex;flex-wrap:wrap"><a href="https://appliance.informationhot.kr/posts/pulmu-wongeongangsaenghwal-gimchigan-1do-eo-wa-wini-a-e-ideu-keulla-sse-keonbeoteobeul-kimchi-fridge-recommend/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#db2777;font-weight:600;font-size:14px;margin-right:12px">🔌 냉장고 추천</a>
-<a href="https://camping.informationhot.kr/posts/hagye-camping-推荐-recommend-top5-2026/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#db2777;font-weight:600;font-size:14px;margin-right:12px">⛺ 텐트 accessory 推荐 추천</a>
+<a href="https://camping.informationhot.kr/posts/hagye-camping-추천-recommend-top5-2026/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#db2777;font-weight:600;font-size:14px;margin-right:12px">⛺ 텐트 accessory 추천 추천</a>
 </div>
 </div>
 {{< /lead >}}
@@ -152,7 +152,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 <p style="margin:0 0 10px;font-weight:600;font-size:15px;color:#374151">🛍️ 이런 상품도 좋아하실 거예요</p>
 <div style="display:flex;flex-wrap:wrap;gap:4px">
 <a href="https://appliance.informationhot.kr/posts/pulmu-wongeongangsaenghwal-gimchigan-1do-eo-wa-wini-a-e-ideu-keulla-sse-keonbeoteobeul-kimchi-fridge-recommend/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🔌 냉장고 추천</a>
-<a href="https://camping.informationhot.kr/posts/hagye-camping-推荐-recommend-top5-2026/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">⛺ 텐트 accessory 推荐 추천</a>
+<a href="https://camping.informationhot.kr/posts/hagye-camping-추천-recommend-top5-2026/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">⛺ 텐트 accessory 추천 추천</a>
 <a href="https://interior.informationhot.kr/posts/gagugolae-recommend-top5-2026/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🛋️ 가구고래 추천</a>
 <a href="https://health.informationhot.kr/posts/gohamlyang-magnesium-supplement-geongang-eul-wihan-pilsu-a-item/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🍎 마그네슘 영양제 추천</a>
 </div>

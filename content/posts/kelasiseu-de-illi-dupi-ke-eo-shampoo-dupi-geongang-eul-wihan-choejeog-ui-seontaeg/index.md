@@ -51,7 +51,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 - 주요 성분: 두피 진정 성분
 - 배송: 로켓배송
 
-케라시스 데일리 두피 케어 샴푸는 두피를 진정시키고 건강하게 유지하는 데 도움을 줍니다. 두피가 민감한 분들에게 특히 추천할 만하며, 매일 사용하는 데 부담이 없습니다. 사용 후 두피가 상쾌해지는 느낌을 받을 수 있습니다. 로켓배송으로 빠르게 받아볼 수 있어, 즉시 사용해보기를 원하시는 분들에게 적합합니다. 리뷰 평균 4.8점을 기록하며, 많은 소비자들에게 사랑받고 있습니다. [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9240379138&itemId=16923431231&vendorItemId=85322506782&traceid=V0-153-7fd9d96c6748125b&requestid=20260606194006783008269273&token=31850C%7CGM)
+케라시스 데일리 두피 케어 샴푸는 두피를 진정시키고 건강하게 유지하는 데 도움을 줄 수 있습니다. 두피가 민감한 분들에게 특히 추천할 만하며, 매일 사용하는 데 부담이 없습니다. 사용 후 두피가 상쾌해지는 느낌을 받을 수 있습니다. 로켓배송으로 빠르게 받아볼 수 있어, 즉시 사용해보기를 원하시는 분들에게 적합합니다. 리뷰 평균 4.8점을 기록하며, 많은 소비자들에게 사랑받고 있습니다. [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9240379138&itemId=16923431231&vendorItemId=85322506782&traceid=V0-153-7fd9d96c6748125b&requestid=20260606194006783008269273&token=31850C%7CGM)
 
 ## 2위: 밀크바오밥 샴푸 화이트머스크향 — 부드러운 향과 보습력
 ![밀크바오밥 샴푸 화이트머스크향](https://ads-partners.coupang.com/image1/MydaYTLPIDqaINLRM9LLBV8_YP_L3_6bmkAYg4OBURLQoagLGEMNxNXf2n2hM_H77Iy2GLNXUkCWQaneU2gxeaDUUM9zxa-l0zx6IlEjw7MTfX0vvyD8uoxIXXf9MprfuPrUL3yiczw4zXp-uP68f-WJm55U94kfo_TbxUpU_zNKhz6ITb9Yx8N9lYIOURDezNmqzbpFeJpZxiLlpVgzMOXqcR68MN3H5MbFnahJAQnq8b1pnGyrVQAX9f4zqnjTpKuFTH-Xp_gBfiQy3WXNC8FYSYVlGzkU6ms49L7X4_cTOLW-)

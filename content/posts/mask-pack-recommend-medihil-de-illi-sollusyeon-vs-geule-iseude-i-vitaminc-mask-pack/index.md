@@ -52,7 +52,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ![뤼산드 연어 PDRN 마스크팩](https://ads-partners.coupang.com/image1/-A7PNXopquzV8S1x-H1GTrk4IX8qkT58ERQD7SsMAC6hyJ3SKHHOVumf-KtKWyKU7YqbYpDWTO-orXJ86yLQfk9PzKE2fYqMlsxEb3L4LNu0rRNqsja5qQgQgU9M-mjFj-t_ItExeyMs3Tu9Zd_2CRTvIUNs76R3qdemNm3eYrBetwbl8A3I3KEYFRc8E9SYYHsXnO3NDMS35ATqBF00FdHl72_sUP_LiPnTK-hJ6YsZvZhq65jsN2dJRGzH7cvua775Lp9M7R_IoH1Ff1z5nRvF_83i-bkkdZROoz0eG6lC-9oI4Yk=)
 
-이 마스크팩은 PDRN 성분이 포함되어 있어 피부 탄력과 보습에 도움을 줍니다. 가격은 68,790원으로 10개입으로 구성되어 있습니다. 모든 피부 타입에 적합하여, 특히 피부가 푸석푸석하고 탄력이 떨어진 분들에게 추천합니다. 예를 들어, 특별한 날이나 중요한 약속 전날 사용하면 피부가 즉각적으로 생기를 되찾을 수 있습니다. 로켓배송으로 빠르게 받을 수 있어, 필요한 순간에 즉시 사용할 수 있습니다. [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=7587562484&itemId=20276408308&vendorItemId=95092866051&traceid=V0-153-b78f21e3fe55d08f&clickBeacon=fce6ea30-5d29-11f1-9721-33f656dba623%7E3&requestid=20260601045034203257729908&token=31850C%7CMIXED)
+이 마스크팩은 PDRN 성분이 포함되어 있어 피부 탄력과 보습에 도움을 줄 수 있습니다. 가격은 68,790원으로 10개입으로 구성되어 있습니다. 모든 피부 타입에 적합하여, 특히 피부가 푸석푸석하고 탄력이 떨어진 분들에게 추천합니다. 예를 들어, 특별한 날이나 중요한 약속 전날 사용하면 피부가 즉각적으로 생기를 되찾을 수 있습니다. 로켓배송으로 빠르게 받을 수 있어, 필요한 순간에 즉시 사용할 수 있습니다. [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=7587562484&itemId=20276408308&vendorItemId=95092866051&traceid=V0-153-b78f21e3fe55d08f&clickBeacon=fce6ea30-5d29-11f1-9721-33f656dba623%7E3&requestid=20260601045034203257729908&token=31850C%7CMIXED)
 
 ## 자주 묻는 질문
 

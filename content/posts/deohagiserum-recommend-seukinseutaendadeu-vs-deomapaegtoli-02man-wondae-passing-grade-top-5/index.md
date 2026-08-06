@@ -29,7 +29,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 더하기세럼을 고를 때는 피부 타입과 원하는 효과에 맞는 주요 성분을 먼저 확인하는 것이 중요합니다. 2026년 7월 현재 시중에 나온 제품들은 대부분 고농축 원액 형태로 출시되고 있어, 농도(ppm 또는 %)가 핵심 선택 기준이 됩니다.
 
-첫 번째로 확인할 것은 <strong>주요 성분의 농도</strong>입니다. 예를 들어 나이아신아마이드는 10% 이상부터 고함량으로 보며, 트라넥삼산은 2~3%만으로도 미백 효과를 기대할 수 있습니다. 베타글루칸은 0.5% 이상이면 충분히 보습 장벽 강화에 도움을 줍니다.
+첫 번째로 확인할 것은 <strong>주요 성분의 농도</strong>입니다. 예를 들어 나이아신아마이드는 10% 이상부터 고함량으로 보며, 트라넥삼산은 2~3%만으로도 미백 효과를 기대할 수 있습니다. 베타글루칸은 0.5% 이상이면 충분히 보습 장벽 강화에 도움을 줄 수 있습니다.
 
 두 번째는 <strong>피부 타입과의 적합성</strong>입니다. 건성 피부라면 세라마이드나 우레아 성분이 들어간 세럼이 좋고, 지성이나 여드름성 피부라면 나이아신아마이드나 트라넥삼산이 효과적입니다. 민감성 피부라면 알코올과 향료가 없는 제품을 우선 고르세요.
 
@@ -88,7 +88,7 @@ T존 부위의 번들거림이 고민인 분이나, 넓어진 모공이 신경 �
 
 <figure><img src=\"https://ads-partners.coupang.com/image1/ZAXv8WC7WPXPje-8ZFz2XK42Zdv_UkCb8YxxTS2VloiyYIY2WO82HMpZ2nTREGj1tS2D3eVDfDizABNpao8TKxfOoBvZnobDXzK6sKdFgon2Ufm5BnFqb4F6jclvCsdYmQlAk4f3g62e-X5Hb5OicYcBXuvBX3bv2yNIgSZQtjFCRjRS_qj0dugBKGdaXiWBB37pXpdr7NEZD_OdzSNB58yy6tgZFIuhOUS2b2D4RFfbGcCzDiagRJBWbDvubRYtoSc2HLaORH-ANS3cwbFxtBarr1DYMjpA2XQ6Q9x5daZFQxApOuiOTM-NICPHLQRJwQlh_0w=\" alt=\"더마퍼델 우레아 70000ppm 리페어 크림\" /><figcaption>더마퍼델 우레아 70000ppm 리페어 크림</figcaption></figure>
 
-더마퍼델 우레아 70000ppm 리페어 크림은 건성 피부나 손상된 피부 장벽을 회복하고 싶은 분에게 적합합니다. 우레아 70000ppm에 EGF와 병풀 성분까지 더해져, 레이저 시술 후나 각질 제거 후 민감해진 피부를 진정시키는 데 도움을 줍니다. 50ml 대용량에 가격은 29,780원, 로켓배송으로 받을 수 있습니다.
+더마퍼델 우레아 70000ppm 리페어 크림은 건성 피부나 손상된 피부 장벽을 회복하고 싶은 분에게 적합합니다. 우레아 70000ppm에 EGF와 병풀 성분까지 더해져, 레이저 시술 후나 각질 제거 후 민감해진 피부를 진정시키는 데 도움을 줄 수 있습니다. 50ml 대용량에 가격은 29,780원, 로켓배송으로 받을 수 있습니다.
 
 <strong>장점</strong>: 우레아 70000ppm 고함량으로 각질 제거와 보습을 동시에, EGF와 병풀 성분이 피부 재생을 돕습니다.
 <strong>아쉬운 점</strong>: 가격대가 다른 제품보다 높은 편입니다.

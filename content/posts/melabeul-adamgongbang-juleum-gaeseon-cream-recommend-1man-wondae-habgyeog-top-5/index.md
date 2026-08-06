@@ -19,7 +19,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 <div style="margin:0 0 16px;padding:12px 16px;background:#f8fafc;border-radius:8px">
 <p style="margin:0 0 6px;font-size:13px;color:#6b7280">💡 다른 추천도 확인해보세요</p>
 <div style="display:flex;flex-wrap:wrap"><a href="https://appliance.informationhot.kr/posts/ma-idi-eo-jadong-meonjibi-um-cordless-vacuum-recommend-mich-compare/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#db2777;font-weight:600;font-size:14px;margin-right:12px">🔌 무선청소기 추천</a>
-<a href="https://camping.informationhot.kr/posts/hagye-camping-推荐-recommend-top5-2026/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#db2777;font-weight:600;font-size:14px;margin-right:12px">⛺ Winter camping 推荐 추천</a>
+<a href="https://camping.informationhot.kr/posts/hagye-camping-추천-recommend-top5-2026/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#db2777;font-weight:600;font-size:14px;margin-right:12px">⛺ Winter camping 추천 추천</a>
 </div>
 </div>
 {{< /lead >}}
@@ -30,7 +30,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 <strong>주름 개선 크림 고를 때 확인할 포인트</strong>
 
-주름 개선 크림을 고를 때는 크게 세 가지를 확인해야 합니다. 첫째, 핵심 성분입니다. 레티놀이나 HPR 레티놀은 피부 재생을 촉진해 주름을 개선하는 대표 성분입니다. 저분자 콜라겐과 EGF(표피성장인자)는 피부 탄력과 재생에 도움을 줍니다. 둘째, 용량 대비 가격을 따져야 합니다. 같은 가격이라도 50ml와 15g의 차이가 크므로, 내 사용 패턴에 맞는 용량을 선택하는 것이 중요합니다. 셋째, 피부 타입입니다. 건성 피부라면 보습력이 강한 제품, 지성이라면 가벼운 질감을 선호해야 합니다. 배송 방식도 확인하세요. 로켓배송이 가능하면 다음날 바로 사용할 수 있어 편리합니다.
+주름 개선 크림을 고를 때는 크게 세 가지를 확인해야 합니다. 첫째, 핵심 성분입니다. 레티놀이나 HPR 레티놀은 피부 재생을 촉진해 주름을 개선하는 대표 성분입니다. 저분자 콜라겐과 EGF(표피성장인자)는 피부 탄력과 재생에 도움을 줄 수 있습니다. 둘째, 용량 대비 가격을 따져야 합니다. 같은 가격이라도 50ml와 15g의 차이가 크므로, 내 사용 패턴에 맞는 용량을 선택하는 것이 중요합니다. 셋째, 피부 타입입니다. 건성 피부라면 보습력이 강한 제품, 지성이라면 가벼운 질감을 선호해야 합니다. 배송 방식도 확인하세요. 로켓배송이 가능하면 다음날 바로 사용할 수 있어 편리합니다.
 
 ## 한눈에 보는 비교표
 
@@ -122,7 +122,7 @@ HPR 레티놀은 기존 레티놀보다 피부 자극이 적으면서도 효과�
 <p style="margin:0 0 10px;font-weight:600;font-size:15px;color:#374151">🛍️ 이런 상품도 좋아하실 거예요</p>
 <div style="display:flex;flex-wrap:wrap;gap:4px">
 <a href="https://appliance.informationhot.kr/posts/ma-idi-eo-jadong-meonjibi-um-cordless-vacuum-recommend-mich-compare/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🔌 무선청소기 추천</a>
-<a href="https://camping.informationhot.kr/posts/hagye-camping-推荐-recommend-top5-2026/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">⛺ Winter camping 推荐 추천</a>
+<a href="https://camping.informationhot.kr/posts/hagye-camping-추천-recommend-top5-2026/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">⛺ Winter camping 추천 추천</a>
 <a href="https://interior.informationhot.kr/posts/ha-ibeulideu-mattress-recommend-heoli-e-joh-eun-ha-ibeulideu-vs-la-ipeumeonteu-be-ijig-ha-ibeulideu/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🛋️ 하이브리드 매트리스 추천</a>
 <a href="https://health.informationhot.kr/posts/혈당-관리-영양제---약사개발-혈당관리-바나바잎-vs-유한메디카-엔/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🍎 위 건강 영양제 추천</a>
 </div>

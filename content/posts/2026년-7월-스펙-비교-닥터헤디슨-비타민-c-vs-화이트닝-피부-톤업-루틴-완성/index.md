@@ -44,7 +44,7 @@ featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-image
 
 ![닥터헤디슨 비타민 C 파우더](https://ads-partners.coupang.com/image1/hkaCGeIVrQ3kbaOthskfGMlV6Y1ZuB3rmv5R7PCxXNyfSpE3tOYiDYKCivovWQurL-gk8_gK24RGGrOvvSV82-872SS_SFD_B8sYHWgc_4N8YGe8XoQbwFQvLjAtt3n2cSkD4vBKktuTs-zQrMxzT0BRWEQLdEaD7b82ca5dVu0u8MY1oGBymGX0axQb7b90gJbaMnF0DXtgf5WxawYl7_SsiQ0yM-QZDb3KtoIDgH-JC9ylj1uzgz2UqYwOZwNrnhCBxZUrCcJHJcnLZTo5_cf0x_wRlMsOBQ==)
 
-닥터헤디슨의 대표 제품인 비타민 C 파우더는 순수 L-아스코르브산 성분을 그대로 사용한 고농축 파우더입니다. 물이나 토너에 소량 섞어 녹여 사용하면 피부 톤을 밝게 정돈하고 잡티 케어에 도움을 줍니다. 모든 피부 타입이 사용할 수 있으며, 특히 기미나 색소 침착이 고민인 분에게 적합합니다.
+닥터헤디슨의 대표 제품인 비타민 C 파우더는 순수 L-아스코르브산 성분을 그대로 사용한 고농축 파우더입니다. 물이나 토너에 소량 섞어 녹여 사용하면 피부 톤을 밝게 정돈하고 잡티 케어에 도움을 줄 수 있습니다. 모든 피부 타입이 사용할 수 있으며, 특히 기미나 색소 침착이 고민인 분에게 적합합니다.
 
 <strong>장점</strong>: 고순도 비타민C 원말로 신선하게 사용할 수 있고, 2개 세트로 가격 대비 용량이 넉넉합니다.  
 <strong>아쉬운 점</strong>: 파우더 형태라 물과 섞는 번거로움이 있으며, 개봉 후에는 빛과 공기에 노출되지 않도록 주의해야 합니다.

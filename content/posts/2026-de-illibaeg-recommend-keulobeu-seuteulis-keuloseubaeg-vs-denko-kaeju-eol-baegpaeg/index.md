@@ -42,7 +42,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 | 투윤 가벼운 메신저백 | 18,800원 | 가벼운 메신저백, 남여공용 | 크로스백 | 로켓배송 |
 | 엔도르시 Y2K 캐주얼 백팩 | 21,800원 | Y2K 감성, 노트북 수납 가능 | 캐주얼 백팩 | 로켓배송 |
 
-## 1위: 크로브 스트릿 크로스백 — 실속派를 위한 투웨이 슬링백
+## 1위: 크로브 스트릿 크로스백 — 실속파를 위한 투웨이 슬링백
 
 ![크로브 스트릿 크로스백](https://ads-partners.coupang.com/image1/aLJptTWlzA01kP04aMvvqEVnfqSj0bZCoL08g1ajbFgW-bz41u2FmTjlC9EJ1oNHp9hhJq94CZiX2D_6eVYF9ZksYjbrBoK2ZOD3uuY3OEnlkfQWNu-AZ0QYLhfe5TFJOL5SLFErEznQlzsiWlh4hK9iZEcHBN-9IVhQ0FNCbxgbd8hKkqFFAR7F5GPhNCjBZWiDZw2uJKApyaleH-jIDhc72KeZHYnuFthdpTUQpwzhpjQvLTRH4M3pCiz0AQlXyCLoryfYSUcZozgrpxhOMFYWjGNompMbtA2JQpeocoZfHK1vCeMFfUg=)
 
@@ -110,13 +110,13 @@ Y2K 감성을 담은 캐주얼 백팩으로, 21,800원의 가격에 노트북 �
 
 매일 출퇴근길에 지하철을 타고, 사무실에서 간단한 외근이 잦은 직장인이라면 <strong>크로브 스트릿 크로스백</strong>의 투웨이 디자인이 유용합니다. 평일에는 클래식하게, 주말에는 캐주얼하게 연출할 수 있습니다.
 
-월세生活的 대학생으로, 한 푼이라도 아끼고 실용적인 백을 찾는다면 <strong>덴코 남녀공용 데일리 백팩</strong>을 강력히 추천합니다. 2만원도 안 되는 가격에 기본기를 갖춘 백팩을 장만할 수 있습니다.
+월세생활의 대학생으로, 한 푼이라도 아끼고 실용적인 백을 찾는다면 <strong>덴코 남녀공용 데일리 백팩</strong>을 강력히 추천합니다. 2만원도 안 되는 가격에 기본기를 갖춘 백팩을 장만할 수 있습니다.
 
-패션에 민감하며, 시간이 지날수록 멋스러워지는 빈티지한 소재를 선호한다면 <strong>[TV홈쇼핑정품 인포벨] 데일리백 가죽</strong>의 소가죽质感을 경험해 보세요. 데일리백으로 메고 다니면서 빈티지함이 더해지는 재미가 있습니다.
+패션에 민감하며, 시간이 지날수록 멋스러워지는 빈티지한 소재를 선호한다면 <strong>[TV홈쇼핑정품 인포벨] 데일리백 가죽</strong>의 소가죽질감을 경험해 보세요. 데일리백으로 메고 다니면서 빈티지함이 더해지는 재미가 있습니다.
 
 매일 노트북을 들고 강의실과 카페를 오가는 공대생이나 디자인 관련 학과 학생이라면 <strong>엔도르시 Y2K 캐주얼 노트북 수납 백팩</strong>이면 됩니다. 힙한 감성에 실용성까지 갖춰 스타일과 실용을 동시에 잡을 수 있습니다.
 
-여성분들이 가벼운 산책이나 쇼핑을 나갈 때, 지갑과 핸드크림만 들고 간편하게外出하고 싶을 때는 <strong>투윤 가벼운 메신저백</strong>을 추천합니다. 가벼움의 극치를 느낄 수 있습니다.
+여성분들이 가벼운 산책이나 쇼핑을 나갈 때, 지갑과 핸드크림만 들고 간편하게외출하고 싶을 때는 <strong>투윤 가벼운 메신저백</strong>을 추천합니다. 가벼움의 극치를 느낄 수 있습니다.
 
 로켓배송 표기 제품을 우선 고려하세요.
 

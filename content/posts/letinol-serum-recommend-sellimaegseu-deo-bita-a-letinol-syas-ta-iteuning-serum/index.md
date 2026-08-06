@@ -50,7 +50,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ![피부과 추천] 1/1+1/2+2 레티놀 앰플](https://ads-partners.coupang.com/image1/8TLmMPOZS8QHB6qL8XcaVaJSDN7LAotXkFci0XGUqB3_w-uhUIWXCU_DRSUbkM9kB2anKOH4uhR5EL4ZjcMWWTllCCalk75WKT816fMGTqzbnctq1-TKp_BkvJBwFyqZrRg9bNugvlACGmeEjXlzfEDBehZ4n7OfMumzZIMS4bbBqIODgDO5nkTZQ1BFsu_tD_ZkbDopLS_3xRCu7My-siFzviF_x6S3I4zXX5UVeKw0KF1y-QwXGGkPwRCyWYRT5aGk--DhuTZ89j8GQhMid_ZpaYCEITAm3X9Lp0qJ6_m1qKrYtuOENr1kNx7vNPYs1rSxEw==)
 
-레티놀 100%의 고농축 앰플로, 주름 개선과 모공 수축에 효과적입니다. 가격은 11,600원으로 매우 저렴하며, 무료배송으로 제공됩니다. 다양한 피부 타입에 적합하며, 피부 리페어와 미백에도 도움을 줍니다. 매일 저녁 세안 후 바르고 수면하면, 아침에 더욱 매끄러운 피부를 느낄 수 있습니다. 리뷰에서도 높은 평점을 기록하고 있어, 가성비를 중시하는 분들에게 적합합니다. [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9537622428&itemId=28447942472&vendorItemId=95398613962&traceid=V0-153-853f13c8fdac593a&requestid=20260611194006994188712449&token=31850C%7CMIXED)
+레티놀 100%의 고농축 앰플로, 주름 개선과 모공 수축에 효과적입니다. 가격은 11,600원으로 매우 저렴하며, 무료배송으로 제공됩니다. 다양한 피부 타입에 적합하며, 피부 리페어와 미백에도 도움을 줄 수 있습니다. 매일 저녁 세안 후 바르고 수면하면, 아침에 더욱 매끄러운 피부를 느낄 수 있습니다. 리뷰에서도 높은 평점을 기록하고 있어, 가성비를 중시하는 분들에게 적합합니다. [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9537622428&itemId=28447942472&vendorItemId=95398613962&traceid=V0-153-853f13c8fdac593a&requestid=20260611194006994188712449&token=31850C%7CMIXED)
 
 ## 2위: 셀리맥스 더 비타 A 레티놀 샷 타이트닝 세럼 — 효과적인 타이트닝
 

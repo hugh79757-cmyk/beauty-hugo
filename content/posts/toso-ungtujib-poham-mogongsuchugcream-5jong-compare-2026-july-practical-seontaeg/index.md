@@ -19,7 +19,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 <div style=\"margin:0 0 16px;padding:12px 16px;background:#f8fafc;border-radius:8px\">
 <p style=\"margin:0 0 6px;font-size:13px;color:#6b7280\">💡 다른 추천도 확인해보세요</p>
 <div style=\"display:flex;flex-wrap:wrap\"><a href=\"https://appliance.informationhot.kr/posts/가습기-추천-1위-풀라스-uv-살균-초음파-대용량-가습기/\" style=\"display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#db2777;font-weight:600;font-size:14px;margin-right:12px\">🔌 가습기 추천</a>
-<a href=\"https://camping.informationhot.kr/posts/tent防水喷雾推荐-comet-vs-blackdog-vs-unknown-onetouch-waterproofshade-compare/\" style=\"display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#db2777;font-weight:600;font-size:14px;margin-right:12px\">⛺ 텐트防水喷雾推荐 추천</a>
+<a href=\"https://camping.informationhot.kr/posts/tent방수 스프레이 추천-comet-vs-blackdog-vs-unknown-onetouch-waterproofshade-compare/\" style=\"display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#db2777;font-weight:600;font-size:14px;margin-right:12px\">⛺ 텐트방수 스프레이 추천 추천</a>
 </div>
 </div>
 {{< /lead >}}
@@ -136,7 +136,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 - <strong>40~50대 건성 피부로 속건조와 모공이 함께 고민이라면</strong> 누룩밤 수면팩을 추천합니다. 저렴한 가격에 영양과 보습을 동시에 채워주면서 수면 중 모공을 정돈해 줍니다. 지금 쿠팡에서 특가로 만나보세요.
 
-- <strong>지성 피부에 모공과 주름을 함께 케어하고 싶다면</strong> 메디코드 레티놀 크림이 적합합니다. 레티놀이 각질을 부드럽게 제거해 모공을 조여주고 주름 개선에도 도움을 줍니다. 아래 링크에서 바로 확인하세요.
+- <strong>지성 피부에 모공과 주름을 함께 케어하고 싶다면</strong> 메디코드 레티놀 크림이 적합합니다. 레티놀이 각질을 부드럽게 제거해 모공을 조여주고 주름 개선에도 도움을 줄 수 있습니다. 아래 링크에서 바로 확인하세요.
 
 - <strong>예산을 고려하면서 인기 제품으로 시작하고 싶다면</strong> 토소웅 1+1 포어클리닉이 최고의 선택입니다. 쿠팡 1위 제품의 실력을 저렴하게 경험해 보세요.
 
@@ -155,7 +155,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 <p style=\"margin:0 0 10px;font-weight:600;font-size:15px;color:#374151\">🛍️ 이런 상품도 좋아하실 거예요</p>
 <div style=\"display:flex;flex-wrap:wrap;gap:4px\">
 <a href=\"https://appliance.informationhot.kr/posts/가습기-추천-1위-풀라스-uv-살균-초음파-대용량-가습기/\" style=\"display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px\">🔌 가습기 추천</a>
-<a href=\"https://camping.informationhot.kr/posts/tent防水喷雾推荐-comet-vs-blackdog-vs-unknown-onetouch-waterproofshade-compare/\" style=\"display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px\">⛺ 텐트防水喷雾推荐 추천</a>
+<a href=\"https://camping.informationhot.kr/posts/tent방수 스프레이 추천-comet-vs-blackdog-vs-unknown-onetouch-waterproofshade-compare/\" style=\"display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px\">⛺ 텐트방수 스프레이 추천 추천</a>
 <a href=\"https://interior.informationhot.kr/posts/gagu-yanolja-dongseogagu-ijeu-ka-i-1dan-3seolab-sunabbed-silsa-yong-hugi/\" style=\"display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px\">🛋️ 가구야놀자 추천</a>
 <a href=\"https://health.informationhot.kr/posts/관절-영양제-추천-1위-철갑상어-연골-콘드로이친-vs-주영엔에스-관절엔-콘드로이친1200/\" style=\"display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px\">🍎 관절엔 추천</a>
 </div>
